@@ -6331,11 +6331,6 @@ shopping easier. <a href="#">Show on google maps.</a>
 		<wp:meta_key><![CDATA[footer_border_color]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:7:"scripts";a:3:{i:0;s:18:"elementor-frontend";i:1;s:24:"glozin-elementor-widgets";i:2;s:28:"glozin-subscribe-form-widget";}s:6:"styles";a:4:{i:0;s:20:"glozin-elementor-css";i:1;s:14:"widget-divider";i:2;s:28:"glozin-currency-language-css";i:3;s:12:"widget-image";}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Newsletter]]></title>
 		<link>https://wpglozin.com/furniture/?glozin_popup=newsletter</link>
@@ -6448,10 +6443,6 @@ shopping easier. <a href="#">Show on google maps.</a>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:13:"popup_visible";s:7:"delayed";s:13:"popup_seconds";i:10;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:6:"styles";a:2:{i:0;s:12:"widget-image";i:1;s:20:"glozin-elementor-css";}s:7:"scripts";a:2:{i:0;s:18:"elementor-frontend";i:1;s:28:"glozin-subscribe-form-widget";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6710,10 +6701,6 @@ Big Promotion				</h2>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
 		<wp:meta_value>[{"id":"3d753122","elType":"container","settings":{"flex_direction":"column","width":{"unit":"%","size":""},"width_tablet":{"unit":"custom","size":"","sizes":[]},"width_mobile":{"unit":"custom","size":"","sizes":[]},"flex_justify_content":"center","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"flex_gap":{"column":"30","row":"30","isLinked":true,"unit":"px","size":30},"padding_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"flex_align_items":"center","background_background":"classic","background_image":{"id":2851,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-urban-living-leave-popup.webp","alt":"","source":"library","size":""},"background_position":"center right","background_repeat":"no-repeat","background_size":"cover","min_height":{"unit":"px","size":380,"sizes":[]},"background_overlay_color":"#0C0C0C","background_overlay_opacity":{"unit":"px","size":0.4,"sizes":[]}},"elements":[{"id":"1860aa5c","elType":"widget","settings":{"title":"Big Save!&lt;br/&gt;\n10% Coupon!","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"align":"center","typography_line_height":{"unit":"px","size":44,"sizes":[]},"typography_letter_spacing":{"unit":"px","size":-0.3,"sizes":[]},"title_color":"#FFFFFF"},"elements":[],"widgetType":"glozin-heading"},{"id":"20ec7a21","elType":"widget","settings":{"code":"TOPSALE10STBL","button_typography_font_size":{"unit":"px","size":43,"sizes":[]},"button_icon_size":{"unit":"px","size":38,"sizes":[]},"button_style":"light","button_min_width":{"unit":"px","size":250,"sizes":[]},"button_min_width_mobile":{"unit":"px","size":220,"sizes":[]}},"elements":[],"widgetType":"glozin-code-discount"},{"id":"6e4c8f83","elType":"widget","settings":{"title":"Enter the code below at checkout to get &lt;br&gt;10% off your first order.","title_size":"div","align":"center","title_color":"#FFFFFF"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"204915a1","elType":"container","settings":{"flex_gap":{"column":"28","row":"28","isLinked":true,"unit":"px","size":28},"padding":{"unit":"px","top":"30","right":"15","bottom":"30","left":"15","isLinked":false}},"elements":[{"id":"26062a73","elType":"widget","settings":{"title":" You may also like... ","title_size":"div","title_color":"#020202","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"600"},"elements":[],"widgetType":"glozin-heading"},{"id":"6a28b704","elType":"widget","settings":{"limit":3,"scrollbar":""},"elements":[],"widgetType":"glozin-product-list"}],"isInner":false},{"id":"18fe10d7","elType":"container","settings":{"padding":{"unit":"px","top":"0","right":"15","bottom":"30","left":"15","isLinked":false}},"elements":[{"id":"4f31e9f8","elType":"widget","settings":{"button_text":"Continue Shopping","button_min_width":{"unit":"%","size":100,"sizes":[]},"button_min_width_tablet":{"unit":"%","size":"","sizes":[]},"button_min_width_mobile":{"unit":"%","size":"","sizes":[]},"button_link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:7:"scripts";a:2:{i:0;s:18:"elementor-frontend";i:1;s:24:"glozin-elementor-widgets";}s:6:"styles";a:1:{i:0;s:20:"glozin-elementor-css";}}]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					
 					<item>
@@ -6945,10 +6932,6 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:16:"exclude_page_ids";s:3:"706";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:7:"scripts";a:1:{i:0;s:18:"elementor-frontend";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					
@@ -12038,10 +12021,7 @@ on Sales and Offers.
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:6:"styles";a:6:{i:0;s:17:"glozin-slides-css";i:1;s:20:"glozin-elementor-css";i:2;s:28:"glozin-products-carousel-css";i:3;s:28:"glozin-lookbook-carousel-css";i:4;s:17:"glozin-banner-css";i:5;s:31:"glozin-testimonial-carousel-css";}s:7:"scripts";a:7:{i:0;s:24:"glozin-elementor-widgets";i:1;s:18:"elementor-frontend";i:2;s:31:"glozin-products-carousel-widget";i:3;s:12:"imagesLoaded";i:4;s:15:"glozin-coundown";i:5;s:23:"glozin-countdown-widget";i:6;s:28:"glozin-subscribe-form-widget";}}]]></wp:meta_value>
-		</wp:postmeta>
+						
 							</item>
 					<item>
 		<title><![CDATA[Shopping Cart]]></title>
@@ -12081,10 +12061,6 @@ on Sales and Offers.
 		<wp:meta_value><![CDATA[Review your selected items before purchase. Enjoy a seamless shopping experience!
 
 ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13755,10 +13731,7 @@ on Sales and Offers.
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+													
 							</item>
 					<item>
 		<title><![CDATA[Terms Of Use]]></title>
@@ -13985,10 +13958,6 @@ on Sales and Offers.
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-03-06]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Top 5 Stylish Outfits T-shirt For You]]></title>
@@ -14092,10 +14061,7 @@ on Sales and Offers.
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-03-19]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							</item>
 					<item>
 		<title><![CDATA[About Us]]></title>
@@ -14283,10 +14249,7 @@ inclusive work environment is the foundation for creativity and success.
 		<wp:meta_key><![CDATA[popup_exclude_pages]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:7:"scripts";a:3:{i:0;s:18:"elementor-frontend";i:1;s:16:"jquery-numerator";i:2;s:21:"glozin-counter-widget";}s:6:"styles";a:3:{i:0;s:12:"widget-image";i:1;s:14:"widget-divider";i:2;s:13:"widget-rating";}}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							</item>
 					<item>
 		<title><![CDATA[Contact Us]]></title>
@@ -15041,10 +15004,6 @@ Saturday - Sunday: 10:00am - 5:00pm</p>
 		<wp:meta_key><![CDATA[popup_exclude_pages]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:7:"scripts";a:2:{i:0;s:37:"glozin-product-recently-viewed-widget";i:1;s:18:"elementor-frontend";}}]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Brands]]></title>
@@ -15438,10 +15397,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_key><![CDATA[popup_exclude_pages]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:6:"styles";a:1:{i:0;s:26:"glozin-categories-grid-css";}s:7:"scripts";a:2:{i:0;s:29:"glozin-categories-grid-widget";i:1;s:18:"elementor-frontend";}}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							</item>
 					<item>
 		<title><![CDATA[All Categories v2]]></title>
@@ -15925,10 +15881,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_key><![CDATA[_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[content-sidebar]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							</item>
 					<item>
 		<title><![CDATA[Latest Swimsuit Model This Year]]></title>
@@ -16137,10 +16090,6 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-03-03]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Shirt Makes Your Style]]></title>
@@ -16243,10 +16192,6 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-03-03]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16351,10 +16296,6 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-03-03]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Top 5 Picnic Fashion Of Girls]]></title>
@@ -16455,10 +16396,6 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-03-06]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16671,10 +16608,6 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-03-06]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Best Clothing for This Summer]]></title>
@@ -16777,10 +16710,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-03-06]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							</item>
 					<item>
 		<title><![CDATA[A Chic Journey Through Fashion Trends]]></title>
@@ -17085,10 +17015,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_key><![CDATA[wcboost_compare_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:8:"products";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							<wp:comment>
 			<wp:comment_id>49</wp:comment_id>
 			<wp:comment_author><![CDATA[James Taylor]]></wp:comment_author>
@@ -17327,10 +17254,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_key><![CDATA[wcboost_compare_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:8:"products";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							<wp:comment>
 			<wp:comment_id>60</wp:comment_id>
 			<wp:comment_author><![CDATA[Daniel Rodriguez]]></wp:comment_author>
@@ -17546,10 +17470,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_key><![CDATA[wcboost_compare_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:8:"products";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							<wp:comment>
 			<wp:comment_id>54</wp:comment_id>
 			<wp:comment_author><![CDATA[Henry Martin]]></wp:comment_author>
@@ -18443,10 +18364,7 @@ The Hammershoi Spice Mill Small is a practical yet elegant addition to any kitch
 		<wp:meta_key><![CDATA[wcboost_compare_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:8:"products";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							<wp:comment>
 			<wp:comment_id>55</wp:comment_id>
 			<wp:comment_author><![CDATA[Harper Thompson]]></wp:comment_author>
@@ -18699,10 +18617,7 @@ With its earthy tones and timeless design, the Brown Stoneware Platter Small add
 		<wp:meta_key><![CDATA[wcboost_compare_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:8:"products";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							<wp:comment>
 			<wp:comment_id>56</wp:comment_id>
 			<wp:comment_author><![CDATA[Alexander Garcia]]></wp:comment_author>
@@ -18922,10 +18837,7 @@ Combining clean lines and a delicate glow, the Glozin II Table Lamp 14x29cm is a
 		<wp:meta_key><![CDATA[wcboost_compare_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:8:"products";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
+							
 							<wp:comment>
 			<wp:comment_id>46</wp:comment_id>
 			<wp:comment_author><![CDATA[Ava Wilson]]></wp:comment_author>
