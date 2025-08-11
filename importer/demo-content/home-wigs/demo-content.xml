@@ -14,14 +14,14 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!-- generator="WordPress/6.8.2" created="2025-08-11 11:02" -->
+<!-- generator="WordPress/6.8.2" created="2025-08-11 11:26" -->
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
 	<title>Glozin Wigs WordPress Theme</title>
 	<link>https://wpglozin.com/wigs</link>
 	<description/>
-	<pubDate>Mon, 11 Aug 2025 11:02:37 +0000</pubDate>
+	<pubDate>Mon, 11 Aug 2025 11:26:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://wpglozin.com/</wp:base_site_url>
@@ -2309,10 +2309,6 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none"><path fill="currentColor" d="M0 6c3 0 6-3 6-6 0 3 3 6 6 6-3 0-6 3-6 6 0-3-3-6-6-6Z"></path></svg>]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[line]]></title>
@@ -4325,10 +4321,6 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"filesize";i:1321;s:5:"width";i:26;s:6:"height";i:26;}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none" style="fill: none;"><path d="M9.07837 13L11.6892 15.6216L16.9217 10.3783" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path><path d="M11.6459 2.65418C12.3934 2.01501 13.6175 2.01501 14.3759 2.65418L16.0875 4.12751C16.4125 4.40918 17.0192 4.63668 17.4525 4.63668H19.2942C20.4425 4.63668 21.385 5.57918 21.385 6.72751V8.56918C21.385 8.99168 21.6125 9.60918 21.8942 9.93418L23.3675 11.6458C24.0067 12.3933 24.0067 13.6175 23.3675 14.3758L21.8942 16.0875C21.6125 16.4125 21.385 17.0192 21.385 17.4525V19.2942C21.385 20.4425 20.4425 21.385 19.2942 21.385H17.4525C17.03 21.385 16.4125 21.6125 16.0875 21.8942L14.3759 23.3675C13.6284 24.0067 12.4042 24.0067 11.6459 23.3675L9.9342 21.8942C9.6092 21.6125 9.00254 21.385 8.5692 21.385H6.69504C5.5467 21.385 4.6042 20.4425 4.6042 19.2942V17.4417C4.6042 17.0192 4.3767 16.4125 4.10587 16.0875L2.64337 14.365C2.01504 13.6175 2.01504 12.4042 2.64337 11.6567L4.10587 9.93418C4.3767 9.60918 4.6042 9.00251 4.6042 8.58001V6.71668C4.6042 5.56835 5.5467 4.62585 6.69504 4.62585H8.5692C8.9917 4.62585 9.6092 4.39835 9.9342 4.11668L11.6459 2.65418Z" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path></svg>]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[shipping]]></title>
@@ -4362,10 +4354,6 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"filesize";i:1030;s:5:"width";i:26;s:6:"height";i:26;}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none" style="fill: none;"><path d="M18.4157 14.3433V10.3784L8.13489 4.44165" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path><path d="M3.4342 8.06006L13 13.5959L22.5008 8.09252" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path><path d="M13 23.4108V13.585" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10.7575 2.68663L4.97255 5.90416C3.66171 6.62999 2.58923 8.44997 2.58923 9.94497V16.0658C2.58923 17.5608 3.66171 19.3808 4.97255 20.1066L10.7575 23.3242C11.9925 24.0067 14.0184 24.0067 15.2534 23.3242L21.0384 20.1066C22.3492 19.3808 23.4217 17.5608 23.4217 16.0658V9.94497C23.4217 8.44997 22.3492 6.62999 21.0384 5.90416L15.2534 2.68663C14.0075 1.99329 11.9925 1.99329 10.7575 2.68663Z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[support]]></title>
@@ -4398,10 +4386,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"filesize";i:1602;s:5:"width";i:26;s:6:"height";i:26;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none" style="fill: none;"><path d="M19.4784 11.6892V16.0225C19.4784 16.3042 19.4676 16.575 19.4351 16.835C19.1859 19.76 17.4634 21.2117 14.2892 21.2117H13.8559C13.5851 21.2117 13.3251 21.3417 13.1626 21.5583L11.8626 23.2917C11.2884 24.0608 10.3567 24.0608 9.78258 23.2917L8.48257 21.5583C8.34173 21.3742 8.02758 21.2117 7.78925 21.2117H7.35592C3.90009 21.2117 2.16675 20.3558 2.16675 16.0225V11.6892C2.16675 8.51501 3.62926 6.79251 6.54342 6.54334C6.80342 6.51084 7.07426 6.5 7.35592 6.5H14.2892C17.7451 6.5 19.4784 8.23334 19.4784 11.6892Z" stroke="currentColor" stroke-width="1.6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path><path d="M23.8118 7.3558V11.6891C23.8118 14.8741 22.3493 16.5858 19.4351 16.835C19.4676 16.575 19.4785 16.3041 19.4785 16.0225V11.6891C19.4785 8.2333 17.7451 6.49996 14.2893 6.49996H7.35596C7.07429 6.49996 6.80346 6.5108 6.54346 6.5433C6.79262 3.62914 8.51512 2.16663 11.6893 2.16663H18.6226C22.0784 2.16663 23.8118 3.89997 23.8118 7.3558Z" stroke="currentColor" stroke-width="1.6" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path><path d="M14.62 14.3542H14.6298" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10.8285 14.3542H10.8383" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></path><path d="M7.03679 14.3542H7.04654" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></path></svg>]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					
@@ -4477,10 +4461,6 @@
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[7c95a4db838a304b98742eed6acd25e2cce65a74]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" style="fill: none;"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 15.001v-2.5M8.392 2.353 2.617 6.977c-.65.517-1.066 1.609-.924 2.425L2.8 16.035c.2 1.183 1.333 2.141 2.533 2.141h9.332c1.192 0 2.333-.966 2.533-2.141l1.108-6.633c.134-.816-.283-1.908-.924-2.425l-5.775-4.616c-.891-.716-2.333-.716-3.216-.008Z"></path></svg>]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[navigation-account.svg]]></title>
@@ -4517,10 +4497,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[b7555c751f9991ac54e3f82ff83112b6765c859b]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"><g fill="currentColor"><path d="M18.887 17.699a10.285 10.285 0 0 0-3.768-3.704 10.353 10.353 0 0 0-10.24 0 10.285 10.285 0 0 0-3.768 3.704.87.87 0 0 0 .075.962c.073.09.164.165.268.217a.881.881 0 0 0 .44.114.829.829 0 0 0 .754-.42 8.515 8.515 0 0 1 3.12-3.068 8.572 8.572 0 0 1 8.48 0 8.514 8.514 0 0 1 3.12 3.068.878.878 0 0 0 1.195.315.808.808 0 0 0 .404-.516.869.869 0 0 0-.08-.672ZM10 11.803c1.416 0 2.775-.56 3.784-1.56 1.01-1.001 1.59-2.362 1.617-3.79a5.476 5.476 0 0 0-1.582-3.854 5.375 5.375 0 0 0-3.818-1.596 5.375 5.375 0 0 0-3.819 1.596 5.476 5.476 0 0 0-1.581 3.854 5.474 5.474 0 0 0 1.616 3.79A5.374 5.374 0 0 0 10 11.802Zm-3.6-5.35c0-.964.38-1.888 1.055-2.57a3.583 3.583 0 0 1 2.546-1.063c.955 0 1.87.382 2.545 1.064a3.65 3.65 0 0 1 1.055 2.569 3.65 3.65 0 0 1-1.055 2.569 3.583 3.583 0 0 1-2.545 1.064c-.955 0-1.87-.383-2.546-1.064a3.65 3.65 0 0 1-1.054-2.57Z"></path></g></svg>]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4559,10 +4535,6 @@
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[e9bc3a9f64f98ae5080996e8ccbb2dfea3dcfdf3]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" style="fill: none;"><g stroke="CURRENTCOLOR" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M2.508 9.352v3.742c0 3.741 1.5 5.241 5.242 5.241h4.492c3.741 0 5.241-1.5 5.241-5.241V9.352"></path><path d="M10 10.002c1.525 0 2.65-1.242 2.5-2.767l-.55-5.566H8.058L7.5 7.235c-.15 1.525.975 2.767 2.5 2.767Z"></path><path d="M15.258 10.002c1.684 0 2.917-1.367 2.75-3.042l-.233-2.291c-.3-2.167-1.133-3-3.317-3h-2.541L12.5 7.51c.142 1.375 1.383 2.492 2.758 2.492ZM4.7 10.002c1.375 0 2.617-1.117 2.75-2.492l.183-1.841.4-4H5.492c-2.184 0-3.017.833-3.317 3L1.95 6.96c-.167 1.675 1.067 3.042 2.75 3.042ZM10 14.169c-1.392 0-2.083.691-2.083 2.083v2.083h4.166v-2.083c0-1.392-.691-2.083-2.083-2.083Z"></path></g></svg>]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[navigation-wishlist.svg]]></title>
@@ -4599,10 +4571,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[698f750268829d5ca87f3791fc9423a3b6e343dc]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" fill="none"><path fill="currentColor" d="M19.389 2.646C18.35 1.589 16.977 1 15.549 1s-2.801.589-3.84 1.646L11 3.375l-.71-.73C9.256 1.583 7.878.993 6.448 1 5.019.993 3.644 1.583 2.61 2.646a5.496 5.496 0 0 0-1.19 1.82A5.847 5.847 0 0 0 1 6.647c0 .75.143 1.493.42 2.182a5.497 5.497 0 0 0 1.191 1.82l7.828 8.11c.077.072.163.132.256.178a.77.77 0 0 0 .61 0c.093-.046.18-.106.256-.178l7.828-8.11a5.497 5.497 0 0 0 1.19-1.82c.278-.689.421-1.431.421-2.182 0-.75-.143-1.493-.42-2.18a5.497 5.497 0 0 0-1.191-1.821Zm0 3.984a4.149 4.149 0 0 1-.285 1.531c-.19.485-.469.923-.82 1.287L11 17.008l-7.275-7.56a3.883 3.883 0 0 1-.836-1.283 4.129 4.129 0 0 1 0-3.071c.194-.485.479-.922.836-1.283.732-.755 1.709-1.173 2.722-1.165 1.018-.009 2 .409 2.738 1.165l1.254 1.307c.077.072.163.132.256.178a.77.77 0 0 0 .61 0c.093-.046.18-.106.256-.178l1.262-1.307c.732-.755 1.709-1.173 2.722-1.165 1.018-.009 2 .409 2.738 1.165.355.363.637.8.83 1.285.193.484.293 1.006.292 1.534h-.016Z"></path></svg>]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4641,10 +4609,6 @@
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[210fb7ab67822e325df09ce6d5741fdc5b0d5c86]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"><path fill="currentColor" d="m16.102 4.278-1.2-1.649H6.098L4.898 4.278h11.204Zm2.23.307v.019h.018c.038.077.069.153.094.23a.56.56 0 0 1 .056.25v11.462c0 .333-.069.652-.206.959-.125.294-.294.55-.506.767-.212.23-.468.409-.768.536a2.233 2.233 0 0 1-.918.192H4.898c-.324 0-.637-.07-.937-.21a2.402 2.402 0 0 1-.749-.518 2.312 2.312 0 0 1-.525-.767 2.518 2.518 0 0 1-.187-.959V5.083a1.112 1.112 0 0 1 .075-.345l.038-.077a.3.3 0 0 0 .056-.076l2.398-3.26a.706.706 0 0 1 .28-.23A.71.71 0 0 1 5.705 1h9.592a.71.71 0 0 1 .356.096.706.706 0 0 1 .281.23l2.398 3.259ZM4.111 5.907v10.64c0 .102.018.204.056.306a.747.747 0 0 0 .43.44c.1.04.2.058.3.058h11.204a.74.74 0 0 0 .3-.057.748.748 0 0 0 .43-.44.887.887 0 0 0 .057-.308V5.907H4.11Zm8.786 2.454a.79.79 0 0 1 .225-.575.784.784 0 0 1 .58-.25c.213 0 .394.084.544.25a.758.758 0 0 1 .244.575c0 .562-.106 1.093-.319 1.591-.2.498-.48.933-.843 1.304-.362.37-.787.664-1.274.881a3.977 3.977 0 0 1-1.555.307c-.55 0-1.068-.102-1.555-.307A4.096 4.096 0 0 1 6.81 9.952c-.2-.498-.3-1.029-.3-1.591a.79.79 0 0 1 .225-.575.764.764 0 0 1 .562-.25c.225 0 .413.084.562.25a.758.758 0 0 1 .244.575c0 .345.062.665.187.958.125.294.3.55.525.767a2.259 2.259 0 0 0 1.686.729 2.258 2.258 0 0 0 1.686-.728c.225-.218.4-.474.525-.768.125-.293.187-.613.187-.958Z"></path></svg>]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[facebook.svg]]></title>
@@ -4681,10 +4645,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[464b8e36bff8ca7a9f23d975b63a075c1fda2e6c]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="6" height="12" viewBox="0 0 6 12" fill="none"><path d="M1.33335 2.66669V4.00004H0V6.00003H1.33335V12H4V6.00003H5.77335L6 4.00004H4V2.83335C4 2.29338 4.05334 2.00669 4.88665 2.00669H6V0H4.21336C2.08004 5.72915e-05 1.33335 1.00002 1.33335 2.66669Z" fill="currentColor"></path></svg>]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4723,10 +4683,6 @@
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[66c8a1cf379dc55e4fca2b88c523302746f01333]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M9.60001 0H2.39999C1.07452 0 0 1.07452 0 2.39999V9.60001C0 10.9255 1.07452 12 2.39999 12H9.60001C10.9255 12 12 10.9255 12 9.60001V2.40004C12.0001 1.07452 10.9255 0 9.60001 0ZM8.39999 1.8H10.2V3.60001H8.39999V1.8ZM6 3.60006C7.32547 3.60006 8.39999 4.67458 8.39999 6.00005C8.39999 7.32552 7.32547 8.40004 6 8.40004C4.67453 8.40004 3.60001 7.32552 3.60001 6.00005C3.60001 4.67458 4.67453 3.60006 6 3.60006ZM10.8 9.60006C10.8 10.2628 10.2627 10.8001 9.60001 10.8001H2.39999C1.73725 10.8001 1.19997 10.2628 1.19997 9.60006V5.40002H2.45996C2.09964 7.35533 3.39257 9.23252 5.34789 9.59289C7.3032 9.95327 9.18039 8.66028 9.54076 6.70497C9.58361 6.47252 9.60347 6.23641 9.60001 6.00005C9.59702 5.7987 9.57696 5.59802 9.53999 5.40007H10.8V9.60006H10.8Z" fill="currentColor"></path></svg>]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[tiktok.svg]]></title>
@@ -4763,10 +4719,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2f8c18dbd104d8d731edfbf4795ff191e61c3f90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="11" height="12" viewBox="0 0 11 12" fill="none"><path d="M3.98864 12C2.93078 12 1.91626 11.5966 1.16824 10.8785C0.42023 10.1604 0 9.18645 0 8.17091C0 7.15537 0.42023 6.18143 1.16824 5.46333C1.91626 4.74524 2.93078 4.34182 3.98864 4.34182H4.9625V6.21055H3.98864C3.58408 6.21055 3.18862 6.32571 2.85224 6.54148C2.51587 6.75725 2.2537 7.06392 2.09888 7.42273C1.94407 7.78154 1.90356 8.17636 1.98248 8.55727C2.06141 8.93818 2.25622 9.28806 2.54228 9.56268C2.82834 9.8373 3.19281 10.0243 3.58959 10.1001C3.98637 10.1759 4.39764 10.137 4.7714 9.98835C5.14516 9.83972 5.46461 9.58804 5.68937 9.26512C5.91413 8.9422 6.03409 8.56255 6.03409 8.17418V0H7.98068V0.933818C7.98068 1.45461 8.19619 1.95407 8.57978 2.32232C8.96338 2.69057 9.48365 2.89745 10.0261 2.89745H11V4.76291H10.0193C9.2984 4.76391 8.59097 4.57526 7.97386 4.21745V8.17091C7.97296 9.18562 7.55291 10.1586 6.80583 10.8764C6.05875 11.5942 5.04562 11.9983 3.98864 12Z" fill="currentColor"></path></svg>]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4805,10 +4757,6 @@
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[d9ae3446790bd412a90dbad1239067d4d569fbf9]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="15" height="10" viewBox="0 0 15 10" fill="none"><path d="M13.9882 1.56476C13.8236 0.952892 13.3412 0.470562 12.7294 0.305804C11.6117 0 7.14106 0 7.14106 0C7.14106 0 2.67055 0 1.55291 0.29421C0.952892 0.458793 0.458706 0.952979 0.294123 1.56476C0 2.68232 0 5 0 5C0 5 0 7.32936 0.294123 8.43524C0.45888 9.04702 0.941123 9.52935 1.55299 9.69411C2.68232 10 7.14124 10 7.14124 10C7.14124 10 11.6117 10 12.7294 9.70579C13.3413 9.54112 13.8236 9.05879 13.9884 8.44701C14.2824 7.32936 14.2824 5.01177 14.2824 5.01177C14.2824 5.01177 14.2942 2.68232 13.9882 1.56476ZM5.7177 7.14115V2.85885L9.43529 5L5.7177 7.14115Z" fill="currentColor"></path></svg>]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[snapchat.svg]]></title>
@@ -4845,10 +4793,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1b08a350ab77a66ac9d727f6f69281db50455794]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" width="13" height="12" viewBox="0 0 13 12" fill="none"><path d="M12.5485 8.9608C10.8373 8.6792 10.0661 6.9264 10.0349 6.852C10.0325 6.8472 10.0309 6.8424 10.0277 6.8376C9.9405 6.66 9.9197 6.5136 9.9677 6.4024C10.0613 6.1832 10.4197 6.0696 10.6565 5.9944C10.7253 5.9728 10.7901 5.952 10.8437 5.9312C11.0773 5.8392 11.2437 5.7392 11.3541 5.6264C11.4853 5.4912 11.5109 5.3616 11.5093 5.2776C11.5053 5.0728 11.3485 4.8904 11.0981 4.8016C11.0141 4.7672 10.9173 4.7488 10.8197 4.7488C10.7533 4.7488 10.6541 4.7576 10.5605 4.8016C10.3605 4.8952 10.1813 4.9464 10.0269 4.9536C9.9453 4.9496 9.8877 4.932 9.8501 4.9152C9.8549 4.8352 9.8597 4.7528 9.8653 4.668L9.8677 4.6312C9.9229 3.7648 9.9909 2.6872 9.7045 2.0472C9.5085 1.6088 9.2453 1.232 8.9213 0.9264C8.6501 0.6704 8.3349 0.4624 7.9845 0.3088C7.3757 0.04 6.8077 0 6.5229 0H6.5221C6.5109 0 6.5005 0 6.4909 0C6.4117 0.0008 6.2829 0.00239999 6.2709 0.00239999C5.9869 0.00239999 5.4181 0.0424 4.8077 0.3112C4.4581 0.4648 4.1445 0.672 3.8741 0.928C3.5517 1.2336 3.2893 1.6096 3.0941 2.0464C2.8077 2.6856 2.8757 3.7632 2.9301 4.6288V4.6304C2.9357 4.7232 2.9421 4.82 2.9477 4.9144C2.9061 4.9328 2.8381 4.9536 2.7381 4.9536C2.5765 4.9536 2.3845 4.9024 2.1677 4.8008C2.1037 4.7712 2.0309 4.756 1.9509 4.756C1.8221 4.756 1.6853 4.7936 1.5677 4.8632C1.4189 4.9504 1.3229 5.0728 1.2965 5.2096C1.2797 5.2992 1.2805 5.4776 1.4789 5.6584C1.5885 5.7576 1.7485 5.8496 1.9557 5.9312C2.0101 5.9528 2.0749 5.9728 2.1429 5.9944C2.3797 6.0696 2.7389 6.1832 2.8325 6.4024C2.8797 6.5136 2.8589 6.66 2.7717 6.8376C2.7693 6.8424 2.7669 6.8472 2.7653 6.852C2.7429 6.9032 2.5389 7.3632 2.1205 7.8488C1.8829 8.1248 1.6213 8.356 1.3429 8.5352C1.0029 8.7544 0.635701 8.8968 0.250901 8.96C0.0997013 8.9848 -0.00829873 9.1192 0.000501267 9.272C0.00290127 9.316 0.0133013 9.36 0.0317013 9.4024V9.4032C0.0933013 9.5464 0.234901 9.6672 0.465301 9.7736C0.746901 9.904 1.1677 10.0136 1.7173 10.0992C1.7453 10.152 1.7741 10.284 1.7941 10.3744C1.8149 10.4704 1.8365 10.5696 1.8677 10.6744C1.9013 10.788 1.9877 10.924 2.2109 10.924C2.2957 10.924 2.3925 10.9048 2.5053 10.8832C2.6701 10.8512 2.8957 10.8072 3.1765 10.8072C3.3325 10.8072 3.4941 10.8208 3.6565 10.848C3.9701 10.9 4.2405 11.0904 4.5533 11.3112C5.0109 11.6344 5.5293 12 6.3213 12C6.3429 12 6.3645 11.9992 6.3861 11.9976C6.4117 11.9992 6.4445 12 6.4781 12C7.2701 12 7.7885 11.6344 8.2461 11.312L8.2469 11.3112C8.5597 11.0912 8.8301 10.9008 9.1437 10.8488C9.3061 10.8216 9.4677 10.808 9.6237 10.808C9.8925 10.808 10.1053 10.8424 10.2949 10.8792C10.4189 10.9032 10.5149 10.9152 10.5893 10.9152H10.5965H10.6037C10.7669 10.9152 10.8869 10.8256 10.9325 10.6696C10.9629 10.5664 10.9845 10.4704 11.0061 10.372C11.0245 10.2872 11.0549 10.1512 11.0821 10.0984C11.6317 10.012 12.0525 9.9032 12.3341 9.7728C12.5637 9.6664 12.7053 9.5456 12.7669 9.4032C12.7853 9.3608 12.7965 9.3168 12.7989 9.2712C12.8077 9.12 12.6997 8.9848 12.5485 8.9608Z" fill="currentColor"></path></svg>]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5214,14 +5158,6 @@ shopping easier. <a href="#">Show on google maps.</a>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[footer_border_color]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:7:"scripts";a:3:{i:0;s:18:"elementor-frontend";i:1;s:24:"glozin-elementor-widgets";i:2;s:28:"glozin-subscribe-form-widget";}s:6:"styles";a:4:{i:0;s:20:"glozin-elementor-css";i:1;s:14:"widget-divider";i:2;s:28:"glozin-currency-language-css";i:3;s:12:"widget-image";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1754996546,"value":{"content":"<div class=\"elementor-element elementor-element-7ead77c e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"7ead77c\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-2fa76cf e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"2fa76cf\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjQ4YzIyM2MyIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJIZWxwIEN1c3RvbWVycyIsIl9wYWRkaW5nIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIyNSIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiX3BhZGRpbmdfbW9iaWxlIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIxOCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwidHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidHlwb2dyYXBoeV9mb250X3NpemUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTYsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4taGVhZGluZyJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjU5Zjk0YWZlIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiZWRpdG9yIjoiRmluZCBhIGxvY2F0aW9uIG5lYXJlc3QgeW91IHRvIHJlZHVjZSBzaGlwcGluZyBjb3N0cyBhbmQgbWFrZVxuc2hvcHBpbmcgZWFzaWVyLiA8YSBjbGFzcz1cImZ3LXNlbWlib2xkXCIgaHJlZj1cImh0dHBzOlwvXC93d3cuZ29vZ2xlLmNvbVwvbWFwcz9sbD0zMy41ODAwNzcsLTg0LjU0NzgyOSZ6PTEyJnQ9bSZobD12aS1WTiZnbD1VUyZtYXBjbGllbnQ9ZW1iZWQmcT1NYWluK1N0K1VuaW9uK0NpdHksK0dBKzMwMjkxK0hvYStLJUUxJUJCJUIzXCI+U2hvdyBvbiBnb29nbGUgbWFwcy48XC9hPiIsInRleHRfY29sb3IiOiIjNDQ0NDQ0IiwidHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidHlwb2dyYXBoeV9mb250X3dlaWdodCI6IjQwMCIsIl9wYWRkaW5nIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIyMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6InRleHQtZWRpdG9yIn0=\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjU2M2ZkMzRiIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiYnV0dG9uX3RleHQiOiIrMSAoOTczKSA0MzUtMzYzOCIsImJ1dHRvbl9zdHlsZSI6InRleHQiLCJidXR0b25fdHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwiYnV0dG9uX3R5cG9ncmFwaHlfZm9udF93ZWlnaHQiOiI0MDAifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLWJ1dHRvbiJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjNkMjljNzQyIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiYnV0dG9uX3RleHQiOiJpbmZvQGdsb3ppbnN0b3JlLmNvbSIsImJ1dHRvbl9zdHlsZSI6InRleHQiLCJidXR0b25fdHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwiYnV0dG9uX3R5cG9ncmFwaHlfZm9udF93ZWlnaHQiOiI0MDAiLCJidXR0b25fbGluayI6eyJ1cmwiOiJtYWlsdG86aW5mb0BnbG96aW5zdG9yZS5jb20iLCJpc19leHRlcm5hbCI6IiIsIm5vZm9sbG93IjoiIiwiY3VzdG9tX2F0dHJpYnV0ZXMiOiIifX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6Imdsb3ppbi1idXR0b24ifQ==\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjI4YWVhOTciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzb2NpYWxfaWNvbl9saXN0IjpbeyJzb2NpYWxfaWNvbiI6eyJ2YWx1ZSI6eyJpZCI6MzI1OCwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvZmFjZWJvb2suc3ZnIn0sImxpYnJhcnkiOiJzdmcifSwiX2lkIjoiNDVmOWU1ZiIsImxpbmsiOnsidXJsIjoiaHR0cHM6XC9cL3d3dy5mYWNlYm9vay5jb21cL1dvcmRQcmVzc1wvIiwiaXNfZXh0ZXJuYWwiOiJ0cnVlIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJuYW1lIjoiRmFjZWJvb2sifSx7InNvY2lhbF9pY29uIjp7InZhbHVlIjp7ImlkIjozMjU5LCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA1XC9pbnN0YWdyYW0uc3ZnIn0sImxpYnJhcnkiOiJzdmcifSwiX2lkIjoiMTdkODk0MCIsImxpbmsiOnsidXJsIjoiaHR0cHM6XC9cL3d3dy5pbnN0YWdyYW0uY29tXC93b3JkcHJlc3MiLCJpc19leHRlcm5hbCI6InRydWUiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn0sIm5hbWUiOiJJbnN0YWdyYW0ifSx7InNvY2lhbF9pY29uIjp7InZhbHVlIjp7ImlkIjozMjYwLCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA1XC90aWt0b2suc3ZnIn0sImxpYnJhcnkiOiJzdmcifSwibGluayI6eyJ1cmwiOiJodHRwczpcL1wvd3d3LnRpa3Rvay5jb21cL0B3b3JkcHJlc3MiLCJpc19leHRlcm5hbCI6InRydWUiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn0sIl9pZCI6ImI5MmNhNmQiLCJuYW1lIjoiVGlrVG9rIn0seyJzb2NpYWxfaWNvbiI6eyJ2YWx1ZSI6eyJpZCI6MzI2MSwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwveW91dHViZS5zdmcifSwibGlicmFyeSI6InN2ZyJ9LCJfaWQiOiJlOGY3OWQ3IiwibGluayI6eyJ1cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93b3JkcHJlc3MiLCJpc19leHRlcm5hbCI6InRydWUiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn0sIm5hbWUiOiJZb3VUdWJlIn0seyJfaWQiOiI0NmI5YTFmIiwic29jaWFsX2ljb24iOnsidmFsdWUiOnsiaWQiOjMyNjIsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDVcL3NuYXBjaGF0LnN2ZyJ9LCJsaWJyYXJ5Ijoic3ZnIn0sImxpbmsiOnsidXJsIjoiaHR0cHM6XC9cL3d3dy5zbmFwY2hhdC5jb21cL2V4cGxvcmVcL3dvcmRwcmVzcyIsImlzX2V4dGVybmFsIjoidHJ1ZSIsIm5vZm9sbG93IjoiIiwiY3VzdG9tX2F0dHJpYnV0ZXMiOiIifSwibmFtZSI6IlNuYXBjaGF0In1dLCJhbGlnbiI6ImxlZnQiLCJpY29uX2JvcmRlcl9jb2xvciI6IiM0NDQ0NDQiLCJfcGFkZGluZyI6eyJ1bml0IjoicHgiLCJ0b3AiOiIyNSIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImljb25fc2l6ZSI6eyJ1bml0IjoicHgiLCJzaXplIjoxMiwic2l6ZXMiOltdfSwiX3BhZGRpbmdfbW9iaWxlIjp7InVuaXQiOiJweCIsInRvcCI6IjIzIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiaWNvbl9jb2xvciI6IiM0NDQ0NDQiLCJpY29uX2NvbG9yX2hvdmVyIjoiIzExMTExMSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4tc29jaWFsLWljb25zIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-5b49b6e4 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"5b49b6e4\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6Ijc1MzI4NDdkIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJPdXIgQ29tcGFueSIsIm1lbnVfaXRlbXMiOlt7InRpdGxlX21lbnUiOiJNZW51IGl0ZW0gMSIsIl9pZCI6ImQyMzg1M2QifSx7InRpdGxlX21lbnUiOiJNZW51IGl0ZW0gMiIsIl9pZCI6IjYwOGZiYjQifSx7InRpdGxlX21lbnUiOiJNZW51IGl0ZW0gMyIsIl9pZCI6IjgwODg1YzYifV0sImxpc3RfbWVudSI6Im91ci1jb21wYW55IiwidG9nZ2xlX21lbnUiOiJ5ZXMiLCJ0aXRsZV9zaXplIjoiaDIifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLW5hdmlnYXRpb24tbWVudSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-7ddac173 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"7ddac173\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6ImU0MGJjNDYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlNob3AgQ2F0ZWdvcmllcyIsIm1lbnVfaXRlbXMiOlt7InRpdGxlX21lbnUiOiJIb3QgRGVhbHMiLCJfaWQiOiJkMjM4NTNkIiwibGlua19tZW51Ijp7InVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3Nob3BcLz9wcm9kdWN0X3N0YXR1cz1vbl9zYWxlJmZpbHRlcj0xIiwiaXNfZXh0ZXJuYWwiOmZhbHNlLCJub2ZvbGxvdyI6ZmFsc2UsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn19LHsidGl0bGVfbWVudSI6IkJlc3QgU2VsbGVyIiwiX2lkIjoiNjA4ZmJiNCIsImxpbmtfbWVudSI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC9zaG9wXC8\/b3JkZXJieT1wb3B1bGFyaXR5IiwiaXNfZXh0ZXJuYWwiOmZhbHNlLCJub2ZvbGxvdyI6ZmFsc2UsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn19LHsidGl0bGVfbWVudSI6IlNhbGUgJiBTcGVjaWFsIE9mZmVycyIsIl9pZCI6IjgwODg1YzYiLCJsaW5rX21lbnUiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvc3BlY2lhbC1vZmZlcnNcLyIsImlzX2V4dGVybmFsIjpmYWxzZSwibm9mb2xsb3ciOmZhbHNlLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9fSx7Il9pZCI6IjNlYTIzN2UiLCJ0aXRsZV9tZW51IjoiQ29sb3JlZCBXaWdzIiwibGlua19tZW51Ijp7InVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3Byb2R1Y3QtY2F0ZWdvcnlcL2NvbG9yZWQtd2lnc1wvIiwiaXNfZXh0ZXJuYWwiOmZhbHNlLCJub2ZvbGxvdyI6ZmFsc2UsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn19LHsiX2lkIjoiZWEzYTkwOSIsInRpdGxlX21lbnUiOiJQb3B1bGFyIFRyZW5kcyIsImxpbmtfbWVudSI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC9zaG9wXC8\/b3JkZXJieT1yYXRpbmciLCJpc19leHRlcm5hbCI6ZmFsc2UsIm5vZm9sbG93IjpmYWxzZSwiY3VzdG9tX2F0dHJpYnV0ZXMiOiIifX0seyJfaWQiOiI5MGVhMTI4IiwidGl0bGVfbWVudSI6IkdsdWVsZXNzIFdpZ3MiLCJsaW5rX21lbnUiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvcHJvZHVjdC1jYXRlZ29yeVwvZ2x1ZWxlc3Mtd2lnc1wvIiwiaXNfZXh0ZXJuYWwiOmZhbHNlLCJub2ZvbGxvdyI6ZmFsc2UsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn19XSwibGlzdF9tZW51Ijoic2hvcC1jYXRlZ29yaWVzIiwidG9nZ2xlX21lbnUiOiJ5ZXMiLCJtZW51X3R5cGUiOiJjdXN0b20iLCJ0aXRsZV9zaXplIjoiaDIifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLW5hdmlnYXRpb24tbWVudSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-1ead8f5f e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"1ead8f5f\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjRjODE0MGI4IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiZm9ybSI6IjcyMSIsInRpdGxlIjoiU2lnbiBVcCB0byBOZXdzbGV0dGVyIiwiZGVzY3JpcHRpb24iOiJTaWduIHVwIGZvciAxMCUgb2ZmIHlvdXIgZmlyc3QgcHVyY2hhc2UgYW5kIGZyZWUgc2hpcHBpbmcuIFVwZGF0ZXMgaW5mb3JtYXRpb24gb24gU2FsZXMgYW5kIE9mZmVycy4iLCJhZnRlcl9kZXNjcmlwdGlvbiI6IioqKkJ5IGVudGVyaW5nIHRoZSBlLW1haWwgeW91IGFjY2VwdCB0aGUgPGEgaHJlZj1cImh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3Rlcm1zLW9mLXVzZVwvXCI+dGVybXMgYW5kIGNvbmRpdGlvbnM8XC9hPiBhbmQgdGhlIDxhIGhyZWY9XCJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC9wcml2YWN5LXBvbGljeVwvXCI+cHJpdmFjeSBwb2xpY3kuPFwvYT4iLCJ0b2dnbGVfbWVudSI6InllcyIsInRpdGxlX3NpemUiOiJoMiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4tc3Vic2NyaWJlLWdyb3VwIn0=\"]\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-449dd2b e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"449dd2b\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-9d76fbc elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"9d76fbc\" data-element_type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t<\/span>\n\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-21a97ac0 e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"21a97ac0\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-68227182 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"68227182\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjNiMzMzYWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6W10sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6Imdsb3ppbi1sYW5ndWFnZXMifQ==\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6Ijc1Nzg5YTUwIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOltdLCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4tY3VycmVuY2llcyJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjMxODliODMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6Ilx1MDBhOSBbZ2xvemluX3llYXJdIEdsb3ppbiBzdG9yZS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4iLCJ0aXRsZV9zaXplIjoic3BhbiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4taGVhZGluZyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-17d76495 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"17d76495\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-7b719a80 elementor-widget elementor-widget-image\" data-id=\"7b719a80\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"676\" height=\"44\" src=\"https:\/\/wpglozin.com\/wigs\/wp-content\/uploads\/sites\/12\/2025\/03\/payment.webp\" class=\"attachment-full size-full wp-image-853\" alt=\"\" srcset=\"https:\/\/wpglozin.com\/wigs\/wp-content\/uploads\/sites\/12\/2025\/03\/payment.webp 676w, https:\/\/wpglozin.com\/wigs\/wp-content\/uploads\/sites\/12\/2025\/03\/payment-300x20.webp 300w, https:\/\/wpglozin.com\/wigs\/wp-content\/uploads\/sites\/12\/2025\/03\/payment-600x39.png 600w, https:\/\/wpglozin.com\/wigs\/wp-content\/uploads\/sites\/12\/2025\/03\/payment-130x8.webp 130w\" sizes=\"(max-width: 676px) 100vw, 676px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":["widget-divider","widget-image"]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5678,66 +5614,6 @@ shopping easier. <a href="#">Show on google maps.</a>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[793]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://wpglozin.com/wigs/1259/</link>
-		<pubDate>Thu, 10 Apr 2025 06:48:21 +0000</pubDate>
-		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?p=1259</guid>
-		<description/>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1259</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-10 06:48:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-10 06:48:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-10 06:48:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-10 06:48:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1259]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[415]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -6365,15 +6241,8 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:16:"exclude_page_ids";s:3:"706";}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:7:"scripts";a:1:{i:0;s:18:"elementor-frontend";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1754996546,"value":{"content":"<div class=\"elementor-element elementor-element-6cffc090 e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"6cffc090\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjQwMjMyNTgxIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaWNvbiI6eyJ2YWx1ZSI6eyJpZCI6MzI0MiwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvbmF2aWdhdGlvbi1ob21lLnN2ZyJ9LCJsaWJyYXJ5Ijoic3ZnIn0sInRpdGxlIjoiSG9tZSIsImxpbmsiOnsidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC9nbG96aW5cLyIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJpbWFnZSI6eyJpZCI6MzI0MywidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvcGxhY2Vob2xkZXIucG5nIn0sImN1c3RvbV91cmwiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvIiwiaXNfZXh0ZXJuYWwiOiIiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn0sIl9lbGVtZW50X2N1c3RvbV93aWR0aCI6eyJ1bml0IjoicHgiLCJzaXplIjoxMDAsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4tbmF2aWdhdGlvbi1iYXItaXRlbSJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjNkNWIwOGYzIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaWNvbiI6eyJ2YWx1ZSI6eyJpZCI6MzI0NCwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvbmF2aWdhdGlvbi1hY2NvdW50LnN2ZyJ9LCJsaWJyYXJ5Ijoic3ZnIn0sInRpdGxlIjoiQWNjb3VudCIsImxpbmsiOnsidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC9nbG96aW5cLyIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJsb2dpbl9tb2RhbCI6InllcyIsImxvZ2luX2FjY291bnRfbGluayI6eyJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3RcL2dsb3ppblwvbXktYWNjb3VudFwvIiwiaXNfZXh0ZXJuYWwiOiIiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn0sImltYWdlIjp7ImlkIjozMjQ1LCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA1XC9wbGFjZWhvbGRlci0xLnBuZyJ9LCJhY3Rpb24iOiJhY2NvdW50IiwiX2VsZW1lbnRfY3VzdG9tX3dpZHRoIjp7InVuaXQiOiJweCIsInNpemUiOjEwMCwic2l6ZXMiOltdfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6Imdsb3ppbi1uYXZpZ2F0aW9uLWJhci1pdGVtIn0=\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjI1N2ZmNGZlIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaWNvbiI6eyJ2YWx1ZSI6eyJpZCI6MzI0NiwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvbmF2aWdhdGlvbi1zaG9wLnN2ZyJ9LCJsaWJyYXJ5Ijoic3ZnIn0sInRpdGxlIjoiU2hvcCIsImxpbmsiOnsidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC9nbG96aW5cL3Nob3BcLyIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJpbWFnZSI6eyJpZCI6MzI0NywidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvcGxhY2Vob2xkZXItMi5wbmcifSwiX2VsZW1lbnRfY3VzdG9tX3dpZHRoIjp7InVuaXQiOiJweCIsInNpemUiOjEwMCwic2l6ZXMiOltdfSwiY3VzdG9tX3VybCI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC9zaG9wIiwiaXNfZXh0ZXJuYWwiOiIiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4tbmF2aWdhdGlvbi1iYXItaXRlbSJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjM0YWI0OGEyIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaWNvbiI6eyJ2YWx1ZSI6eyJpZCI6MzI0OCwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvbmF2aWdhdGlvbi13aXNobGlzdC5zdmcifSwibGlicmFyeSI6InN2ZyJ9LCJ0aXRsZSI6Ildpc2hsaXN0IiwibGluayI6eyJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3RcL2dsb3ppblwvd2lzaGxpc3RcLyIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJzaG93X3dpc2hsaXN0X2NvdW50ZXIiOiJ5ZXMiLCJpbWFnZSI6eyJpZCI6MzI0OSwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvcGxhY2Vob2xkZXItMy5wbmcifSwiY291bnRlciI6Indpc2hsaXN0IiwiX2VsZW1lbnRfY3VzdG9tX3dpZHRoIjp7InVuaXQiOiJweCIsInNpemUiOjEwMCwic2l6ZXMiOltdfSwiY3VzdG9tX3VybCI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93aXNobGlzdCIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLW5hdmlnYXRpb24tYmFyLWl0ZW0ifQ==\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjdhYzA4OGE2IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaWNvbiI6eyJ2YWx1ZSI6eyJpZCI6MzI1MCwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvbmF2aWdhdGlvbi1jYXJ0LnN2ZyJ9LCJsaWJyYXJ5Ijoic3ZnIn0sInRpdGxlIjoiQ2FydCIsImxpbmsiOnsidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC9nbG96aW5cL2NhcnRcLyIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJjYXJ0X21vZGFsIjoieWVzIiwic2hvd19jYXJ0X2NvdW50ZXIiOiJ5ZXMiLCJpbWFnZSI6eyJpZCI6MzI1MSwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNVwvcGxhY2Vob2xkZXItNC5wbmcifSwiYWN0aW9uIjoiY2FydCIsImNvdW50ZXIiOiJjYXJ0IiwiX2VsZW1lbnRfY3VzdG9tX3dpZHRoIjp7InVuaXQiOiJweCIsInNpemUiOjEwMCwic2l6ZXMiOltdfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6Imdsb3ppbi1uYXZpZ2F0aW9uLWJhci1pdGVtIn0=\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
+					
 					
 					<item>
 		<title><![CDATA[Home]]></title>
@@ -7140,98 +7009,6 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Grid 3 columns]]></title>
-		<link>https://wpglozin.com/wigs/grid-3-columns/</link>
-		<pubDate>Tue, 18 Mar 2025 09:23:28 +0000</pubDate>
-		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?p=374</guid>
-		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>374</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-16 10:43:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-18 09:23:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-16 10:43:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-18 09:23:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[grid-3-columns]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[370]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[374]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[//localhost/glozin/blog/?blog_columns=3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-03-18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-03-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-03-21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-03-25]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-03-26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-03-28]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-04-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Hot Deals]]></title>
 		<link>https://wpglozin.com/wigs/hot-deals/</link>
 		<pubDate>Fri, 21 Mar 2025 03:33:10 +0000</pubDate>
@@ -7641,6 +7418,66 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
+		<link>https://wpglozin.com/wigs/1259/</link>
+		<pubDate>Thu, 10 Apr 2025 06:48:21 +0000</pubDate>
+		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/glozin/?p=1259</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1259</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-10 06:48:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-10 06:48:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-10 06:48:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-10 06:48:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1259]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[415]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://wpglozin.com/wigs/1260/</link>
 		<pubDate>Thu, 10 Apr 2025 06:48:21 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
@@ -7945,6 +7782,98 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_mega]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Grid 3 columns]]></title>
+		<link>https://wpglozin.com/wigs/grid-3-columns/</link>
+		<pubDate>Tue, 18 Mar 2025 09:23:28 +0000</pubDate>
+		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/glozin/?p=374</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>374</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-16 10:43:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-18 09:23:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-16 10:43:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-18 09:23:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[grid-3-columns]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[370]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[374]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[//localhost/glozin/blog/?blog_columns=3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-03-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-03-25]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-03-26]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-03-28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-15]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -9385,71 +9314,6 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://wpglozin.com/wigs/2431/</link>
-		<pubDate>Thu, 24 Apr 2025 02:15:38 +0000</pubDate>
-		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/wigs/?p=2431</guid>
-		<description/>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2431</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-24 02:15:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-24 02:15:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-24 02:15:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-24 02:15:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[2431]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="mobile-custom-menu"><![CDATA[Mobile Custom Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_mega]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:21:{s:4:"mega";b:0;s:9:"mega_mode";s:7:"default";s:9:"icon_type";s:3:"svg";s:13:"icon_position";s:4:"left";s:4:"icon";s:0:"";s:10:"icon_image";s:0:"";s:13:"icon_image_id";s:0:"";s:8:"icon_svg";s:1933:"<svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M15.899 15.3407C15.0898 13.9718 13.9351 12.8369 12.5494 12.0483C11.1637 11.2598 9.59497 10.845 7.99854 10.845C6.40212 10.845 4.83338 11.2598 3.44766 12.0483C2.06195 12.8369 0.907317 13.9718 0.0981041 15.3407C-0.000963745 15.5183 -0.0261854 15.7274 0.0278433 15.9232C0.0533259 16.0229 0.0999421 16.1161 0.164569 16.1964C0.229196 16.2768 0.310341 16.3425 0.402568 16.3891C0.521545 16.4562 0.65615 16.491 0.792905 16.4901C0.928522 16.4958 1.06307 16.464 1.1816 16.3982C1.30013 16.3324 1.39798 16.2351 1.46429 16.1173C2.13414 14.9835 3.09017 14.0434 4.23766 13.3902C5.38515 12.737 6.68428 12.3934 8.00635 12.3934C9.32842 12.3934 10.6276 12.737 11.775 13.3902C12.9225 14.0434 13.8786 14.9835 14.5484 16.1173C14.6527 16.2936 14.8227 16.4219 15.0215 16.4742C15.2203 16.5266 15.4318 16.4988 15.6101 16.3969C15.6989 16.3498 15.7768 16.2847 15.8386 16.2057C15.9005 16.1268 15.945 16.0358 15.9692 15.9387C15.9981 15.8394 16.0068 15.7354 15.9947 15.6327C15.9827 15.53 15.9501 15.4307 15.899 15.3407Z" fill="currentColor"/>
-<path d="M7.99971 10.1C9.25765 10.1002 10.4654 9.60204 11.3631 8.71265C12.2608 7.82327 12.7767 6.61377 12.7997 5.34441C12.7997 4.05959 12.294 2.8274 11.3938 1.91889C10.4936 1.01039 9.27275 0.5 7.99971 0.5C6.72667 0.5 5.50577 1.01039 4.6056 1.91889C3.70542 2.8274 3.19971 4.05959 3.19971 5.34441C3.22277 6.61377 3.73865 7.82327 4.63633 8.71265C5.53402 9.60204 6.74177 10.1002 7.99971 10.1ZM4.79971 5.34441C4.79971 4.48786 5.13685 3.6664 5.73697 3.06073C6.33708 2.45506 7.15102 2.1148 7.99971 2.1148C8.8484 2.1148 9.66234 2.45506 10.2625 3.06073C10.8626 3.6664 11.1997 4.48786 11.1997 5.34441C11.1997 6.20095 10.8626 7.02242 10.2625 7.62809C9.66234 8.23375 8.8484 8.57402 7.99971 8.57402C7.15102 8.57402 6.33708 8.23375 5.73697 7.62809C5.13685 7.02242 4.79971 6.20095 4.79971 5.34441Z" fill="currentColor"/>
-</svg>
-";s:11:"badges_text";s:0:"";s:17:"badges_background";s:0:"";s:12:"badges_color";s:0:"";s:7:"visible";s:7:"visible";s:12:"disable_link";b:0;s:7:"content";s:0:"";s:5:"width";s:9:"container";s:12:"custom_width";s:6:"1140px";s:7:"padding";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:6:"margin";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:10:"background";a:6:{s:5:"image";s:0:"";s:5:"color";s:0:"";s:10:"attachment";s:6:"scroll";s:4:"size";s:0:"";s:6:"repeat";s:9:"no-repeat";s:8:"position";a:3:{s:1:"x";s:4:"left";s:1:"y";s:3:"top";s:6:"custom";a:2:{s:1:"x";s:0:"";s:1:"y";s:0:"";}}}s:13:"mt_menu_image";s:0:"";i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://wpglozin.com/wigs/home-2/</link>
 		<pubDate>Thu, 17 Apr 2025 11:21:33 +0000</pubDate>
@@ -10676,44 +10540,44 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Load more button]]></title>
-		<link>https://wpglozin.com/wigs/load-more-button-2/</link>
-		<pubDate>Thu, 17 Apr 2025 11:21:33 +0000</pubDate>
+		<title><![CDATA[]]></title>
+		<link>https://wpglozin.com/wigs/2431/</link>
+		<pubDate>Thu, 24 Apr 2025 02:15:38 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/wigs/2025/04/17/load-more-button-2/</guid>
+		<guid isPermaLink="false">https://wpglozin.com/wigs/?p=2431</guid>
 		<description/>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1720</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-27 02:26:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-17 11:21:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-27 02:26:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-27 02:26:48]]></wp:post_modified_gmt>
+		<wp:post_id>2431</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-24 02:15:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-24 02:15:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-24 02:15:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-24 02:15:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[load-more-button-2]]></wp:post_name>
+		<wp:post_name><![CDATA[2431]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+										<category domain="nav_menu" nicename="mobile-custom-menu"><![CDATA[Mobile Custom Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1701]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1720]]></wp:meta_value>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -10729,35 +10593,15 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-04-17]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-04-18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-04-21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-04-24]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-04-25]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-04-29]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-09]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_mega]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:21:{s:4:"mega";b:0;s:9:"mega_mode";s:7:"default";s:9:"icon_type";s:3:"svg";s:13:"icon_position";s:4:"left";s:4:"icon";s:0:"";s:10:"icon_image";s:0:"";s:13:"icon_image_id";s:0:"";s:8:"icon_svg";s:1933:"<svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.899 15.3407C15.0898 13.9718 13.9351 12.8369 12.5494 12.0483C11.1637 11.2598 9.59497 10.845 7.99854 10.845C6.40212 10.845 4.83338 11.2598 3.44766 12.0483C2.06195 12.8369 0.907317 13.9718 0.0981041 15.3407C-0.000963745 15.5183 -0.0261854 15.7274 0.0278433 15.9232C0.0533259 16.0229 0.0999421 16.1161 0.164569 16.1964C0.229196 16.2768 0.310341 16.3425 0.402568 16.3891C0.521545 16.4562 0.65615 16.491 0.792905 16.4901C0.928522 16.4958 1.06307 16.464 1.1816 16.3982C1.30013 16.3324 1.39798 16.2351 1.46429 16.1173C2.13414 14.9835 3.09017 14.0434 4.23766 13.3902C5.38515 12.737 6.68428 12.3934 8.00635 12.3934C9.32842 12.3934 10.6276 12.737 11.775 13.3902C12.9225 14.0434 13.8786 14.9835 14.5484 16.1173C14.6527 16.2936 14.8227 16.4219 15.0215 16.4742C15.2203 16.5266 15.4318 16.4988 15.6101 16.3969C15.6989 16.3498 15.7768 16.2847 15.8386 16.2057C15.9005 16.1268 15.945 16.0358 15.9692 15.9387C15.9981 15.8394 16.0068 15.7354 15.9947 15.6327C15.9827 15.53 15.9501 15.4307 15.899 15.3407Z" fill="currentColor"/>
+<path d="M7.99971 10.1C9.25765 10.1002 10.4654 9.60204 11.3631 8.71265C12.2608 7.82327 12.7767 6.61377 12.7997 5.34441C12.7997 4.05959 12.294 2.8274 11.3938 1.91889C10.4936 1.01039 9.27275 0.5 7.99971 0.5C6.72667 0.5 5.50577 1.01039 4.6056 1.91889C3.70542 2.8274 3.19971 4.05959 3.19971 5.34441C3.22277 6.61377 3.73865 7.82327 4.63633 8.71265C5.53402 9.60204 6.74177 10.1002 7.99971 10.1ZM4.79971 5.34441C4.79971 4.48786 5.13685 3.6664 5.73697 3.06073C6.33708 2.45506 7.15102 2.1148 7.99971 2.1148C8.8484 2.1148 9.66234 2.45506 10.2625 3.06073C10.8626 3.6664 11.1997 4.48786 11.1997 5.34441C11.1997 6.20095 10.8626 7.02242 10.2625 7.62809C9.66234 8.23375 8.8484 8.57402 7.99971 8.57402C7.15102 8.57402 6.33708 8.23375 5.73697 7.62809C5.13685 7.02242 4.79971 6.20095 4.79971 5.34441Z" fill="currentColor"/>
+</svg>
+";s:11:"badges_text";s:0:"";s:17:"badges_background";s:0:"";s:12:"badges_color";s:0:"";s:7:"visible";s:7:"visible";s:12:"disable_link";b:0;s:7:"content";s:0:"";s:5:"width";s:9:"container";s:12:"custom_width";s:6:"1140px";s:7:"padding";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:6:"margin";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:10:"background";a:6:{s:5:"image";s:0:"";s:5:"color";s:0:"";s:10:"attachment";s:6:"scroll";s:4:"size";s:0:"";s:6:"repeat";s:9:"no-repeat";s:8:"position";a:3:{s:1:"x";s:4:"left";s:1:"y";s:3:"top";s:6:"custom";a:2:{s:1:"x";s:0:"";s:1:"y";s:0:"";}}}s:13:"mt_menu_image";s:0:"";i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11575,14 +11419,6 @@ Perfect Styles!				</h2>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:7:"scripts";a:8:{i:0;s:24:"glozin-elementor-widgets";i:1;s:18:"elementor-frontend";i:2;s:12:"imagesLoaded";i:3;s:21:"glozin-marquee-widget";i:4;s:31:"glozin-products-carousel-widget";i:5;s:18:"glozin-image-slide";i:6;s:16:"glozin-eventmove";i:7;s:30:"glozin-shoppable-images-widget";}s:6:"styles";a:6:{i:0;s:17:"glozin-slides-css";i:1;s:18:"glozin-marquee-css";i:2;s:28:"glozin-products-carousel-css";i:3;s:20:"glozin-elementor-css";i:4;s:31:"glozin-testimonial-carousel-css";i:5;s:19:"glozin-icon-box-css";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1754996545,"value":{"content":"<div class=\"elementor-element elementor-element-6ec3777e e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"6ec3777e\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjY0NTc4YzcwIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaXRlbXMiOlt7ImltYWdlIjp7ImlkIjozMDcxLCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA0XC9oLXdpZ3MtY2F0cy0xLndlYnAiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5Iiwic2l6ZSI6IiJ9LCJsaW5rIjp7InVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3Nob3BcLz9vcmRlcmJ5PWRhdGUiLCJpc19leHRlcm5hbCI6IiIsIm5vZm9sbG93IjoiIiwiY3VzdG9tX2F0dHJpYnV0ZXMiOiIifSwidGl0bGUiOiJOZXcgQXJyaXZhbHMiLCJfaWQiOiJkNWU3YjQ0IiwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIn0seyJpbWFnZSI6eyJpZCI6MzA3MiwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWNhdHMtMi53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwibGluayI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC9zaG9wXC8\/cHJvZHVjdF9zdGF0dXM9b25fc2FsZSZmaWx0ZXI9MSIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJ0aXRsZSI6IlRvcCBTZWxsaW5nIiwiX2lkIjoiNzM1Njk3MyIsInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyJ9LHsiaW1hZ2UiOnsiaWQiOjMwNzMsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL2gtd2lncy1jYXRzLTMud2VicCIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJzaXplIjoiIn0sImxpbmsiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvcHJvZHVjdC1jYXRlZ29yeVwvY29sb3JlZC13aWdzXC8iLCJpc19leHRlcm5hbCI6IiIsIm5vZm9sbG93IjoiIiwiY3VzdG9tX2F0dHJpYnV0ZXMiOiIifSwidGl0bGUiOiJDb2xvcmVkIFdpZ3MiLCJfaWQiOiI0ZDA2YjFjIiwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIn0seyJpbWFnZSI6eyJpZCI6MzA3NCwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWNhdHMtNC53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwibGluayI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC9wcm9kdWN0LWNhdGVnb3J5XC9jdXJseS13aWdzXC8iLCJpc19leHRlcm5hbCI6IiIsIm5vZm9sbG93IjoiIiwiY3VzdG9tX2F0dHJpYnV0ZXMiOiIifSwidGl0bGUiOiJMaW1pdGVkIERlc2lnbiIsIl9pZCI6IjYxYjk4YjUiLCJ5b3V0dWJlX3VybCI6Imh0dHBzOlwvXC93d3cueW91dHViZS5jb21cL3dhdGNoP3Y9WEhPbUJWNGpzX0UiLCJ2aW1lb191cmwiOiJodHRwczpcL1wvdmltZW8uY29tXC8yMzUyMTUyMDMifSx7ImltYWdlIjp7ImlkIjozMDc1LCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA0XC9oLXdpZ3MtY2F0cy01LndlYnAiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5Iiwic2l6ZSI6IiJ9LCJsaW5rIjp7InVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3Byb2R1Y3QtY2F0ZWdvcnlcL3Nob3J0LXdpZ3NcLyIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJ0aXRsZSI6IlNob3J0IFdpZ3MiLCJfaWQiOiJlOGIzYjg3IiwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIn0seyJpbWFnZSI6eyJpZCI6MzA3NiwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWNhdHMtNi53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwibGluayI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC9wcm9kdWN0LWNhdGVnb3J5XC9nbHVlbGVzcy13aWdzXC8iLCJpc19leHRlcm5hbCI6IiIsIm5vZm9sbG93IjoiIiwiY3VzdG9tX2F0dHJpYnV0ZXMiOiIifSwidGl0bGUiOiJHbHVlbGVzcyBXaWdzIiwiX2lkIjoiYzBkMGUzMyIsInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyJ9LHsiaW1hZ2UiOnsiaWQiOjMwNzcsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL2gtd2lncy1jYXRzLTcuZ2lmIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwibGluayI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC9zaG9wXC8\/cHJvZHVjdF9zdGF0dXM9b25fc2FsZSZmaWx0ZXI9MSIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJ0aXRsZSI6IjxpbWcgd2lkdGg9XCIxNHB4XCIgaGVpZ2h0PVwiMTRweFwiIHNyYz1cImh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL1x1ZDgzZFx1ZGQyNS53ZWJwXCIgc3R5bGU9XCJwb3NpdGlvbjogcmVsYXRpdmU7IHRvcDogLTJweDtcIiBhbHQ9XCJob3QgaWNvblwiPiBIb3QgRGVhbHMiLCJfaWQiOiJhMjhlY2QwIiwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIn0seyJpbWFnZSI6eyJpZCI6MzA3OCwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWNhdHMtOC53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwibGluayI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC9zaG9wXC8iLCJpc19leHRlcm5hbCI6IiIsIm5vZm9sbG93IjoiIiwiY3VzdG9tX2F0dHJpYnV0ZXMiOiIifSwidGl0bGUiOiJDbGVhcmFuY2UgU2FsZXMiLCJfaWQiOiJiYTMwMjQ5IiwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIn1dLCJzbGlkZXNfdG9fc2hvdyI6OCwiaW1hZ2Vfc3BhY2luZ19jdXN0b20iOjUwLCJpbWFnZV9ib3JkZXJfcmFkaXVzIjp7InVuaXQiOiIlIiwidG9wIjoiNTAiLCJyaWdodCI6IjUwIiwiYm90dG9tIjoiNTAiLCJsZWZ0IjoiNTAiLCJpc0xpbmtlZCI6dHJ1ZX0sImltYWdlX2JvcmRlcl9yYWRpdXNfdGFibGV0Ijp7InVuaXQiOiIlIiwidG9wIjoiIiwicmlnaHQiOiIiLCJib3R0b20iOiIiLCJsZWZ0IjoiIiwiaXNMaW5rZWQiOnRydWV9LCJpbWFnZV9ib3JkZXJfcmFkaXVzX21vYmlsZSI6eyJ1bml0IjoiJSIsInRvcCI6IiIsInJpZ2h0IjoiIiwiYm90dG9tIjoiIiwibGVmdCI6IiIsImlzTGlua2VkIjp0cnVlfSwic2xpZGVzX3RvX3Nob3dfdGFibGV0Ijo2LCJuYXZpZ2F0aW9uX2NsYXNzZXNfdGFibGV0IjoiZG90cyIsImltYWdlX3dpZHRoIjp7InVuaXQiOiJweCIsInNpemUiOjEwMCwic2l6ZXMiOltdfSwidGl0bGVfdHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidGl0bGVfdHlwb2dyYXBoeV9mb250X3NpemVfdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjEzLjUsInNpemVzIjpbXX0sInNsaWRlc190b19zaG93X21vYmlsZSI6MywiaW1hZ2Vfc3BhY2luZ19jdXN0b21fbW9iaWxlIjoyMCwiaW1hZ2Vfc3BhY2luZ19jdXN0b21fdGFibGV0IjoxNX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6Imdsb3ppbi1pbWFnZS1ib3gtY2Fyb3VzZWwifQ==\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-75339879 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"75339879\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjFkZWUzYzYwIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2xpZGVzIjpbeyJ0aXRsZSI6IlNhdmUhPGJyIGNsYXNzPVwiZC1ub25lIGQtYmxvY2steGxcIlwvPiAzMC01MCUiLCJidXR0b25fdGV4dCI6IlNob3AgU2F2ZSIsIl9pZCI6IjJjMzNhMmIiLCJiZWZvcmVfdGl0bGUiOiJCVVkgMSBHRVQgMVx1MjAxNENBTkRZIFNVTlNFVCEiLCJiYW5uZXJfYmFja2dyb3VuZF9pbWciOnsiaWQiOjMwODQsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL2gtd2lncy1zbGlkZS0xLXNjYWxlZC53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwiYmFja2dyb3VuZF9wb3NpdGlvbl9tb2JpbGUiOiJpbml0aWFsIiwiYmFja2dyb3VuZF9wb3NpdGlvbiI6ImNlbnRlciBjZW50ZXIiLCJiYWNrZ3JvdW5kX3Bvc2l0aW9uX3hfbW9iaWxlIjp7InVuaXQiOiIlIiwic2l6ZSI6ODYsInNpemVzIjpbXX0sImJhY2tncm91bmRfcG9zaXRpb25feV9tb2JpbGUiOnsidW5pdCI6IiUiLCJzaXplIjoxMDAsInNpemVzIjpbXX0sImJhbm5lcl9iYWNrZ3JvdW5kX2ltZ19tb2JpbGUiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLXNsaWRlLW1vYmlsZS0xLndlYnAiLCJpZCI6MzA4NSwic2l6ZSI6IiIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkifSwiYnV0dG9uX2xpbmsiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvc2hvcFwvIiwiaXNfZXh0ZXJuYWwiOiIiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn19XSwic2xpZGVzX2hlaWdodCI6eyJ1bml0IjoicHgiLCJzaXplIjo3MjcsInNpemVzIjpbXX0sInNsaWRlc19oZWlnaHRfdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjY1NSwic2l6ZXMiOltdfSwic2xpZGVzX2hlaWdodF9tb2JpbGUiOnsidW5pdCI6InB4Iiwic2l6ZSI6NDcyLCJzaXplcyI6W119LCJuYXZpZ2F0aW9uX2NsYXNzZXNfdGFibGV0IjoiZG90cyIsInNsaWRlc19ob3Jpem9udGFsX3Bvc2l0aW9uX21vYmlsZSI6ImNlbnRlciIsInNsaWRlc190ZXh0X2FsaWduX21vYmlsZSI6ImNlbnRlciIsInNsaWRlc19jb250ZW50X3BhZGRpbmciOnsidW5pdCI6IiUiLCJ0b3AiOiIiLCJyaWdodCI6IiIsImJvdHRvbSI6IiIsImxlZnQiOiIiLCJpc0xpbmtlZCI6dHJ1ZX0sInNsaWRlc19jb250ZW50X3BhZGRpbmdfdGFibGV0Ijp7InVuaXQiOiJweCIsInRvcCI6IjgwIiwicmlnaHQiOiIyMCIsImJvdHRvbSI6IjgwIiwibGVmdCI6IjIwIiwiaXNMaW5rZWQiOmZhbHNlfSwic2xpZGVzX2NvbnRlbnRfcGFkZGluZ19tb2JpbGUiOnsidW5pdCI6InB4IiwidG9wIjoiMzgiLCJyaWdodCI6IjE1IiwiYm90dG9tIjoiMzgiLCJsZWZ0IjoiMTUiLCJpc0xpbmtlZCI6ZmFsc2V9LCJ0aXRsZV9jb2xvciI6IiNGRkZGRkYiLCJ0aXRsZV90eXBvZ3JhcGh5X3R5cG9ncmFwaHkiOiJjdXN0b20iLCJ0aXRsZV90eXBvZ3JhcGh5X2ZvbnRfc2l6ZSI6eyJ1bml0IjoicHgiLCJzaXplIjo5MCwic2l6ZXMiOltdfSwidGl0bGVfdHlwb2dyYXBoeV9mb250X3NpemVfdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjY0LCJzaXplcyI6W119LCJ0aXRsZV90eXBvZ3JhcGh5X2ZvbnRfc2l6ZV9tb2JpbGUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MzgsInNpemVzIjpbXX0sInRpdGxlX3R5cG9ncmFwaHlfZm9udF93ZWlnaHQiOiI2MDAiLCJ0aXRsZV90eXBvZ3JhcGh5X2xpbmVfaGVpZ2h0X3RhYmxldCI6eyJ1bml0IjoicHgiLCJzaXplIjo2NCwic2l6ZXMiOltdfSwidGl0bGVfdHlwb2dyYXBoeV9saW5lX2hlaWdodF9tb2JpbGUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MzYsInNpemVzIjpbXX0sInRpdGxlX3R5cG9ncmFwaHlfbGV0dGVyX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6LTMuMDYsInNpemVzIjpbXX0sInRpdGxlX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6NDAsInNpemVzIjpbXX0sImJlZm9yZV90aXRsZV9jb2xvciI6IiNGRkZGRkYiLCJiZWZvcmVfdGl0bGVfdHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwiYmVmb3JlX3RpdGxlX3R5cG9ncmFwaHlfZm9udF93ZWlnaHQiOiI2MDAiLCJiZWZvcmVfdGl0bGVfdHlwb2dyYXBoeV90ZXh0X3RyYW5zZm9ybSI6ImNhcGl0YWxpemUiLCJiZWZvcmVfdGl0bGVfdHlwb2dyYXBoeV9saW5lX2hlaWdodF90YWJsZXQiOnsidW5pdCI6ImN1c3RvbSIsInNpemUiOiIiLCJzaXplcyI6W119LCJiZWZvcmVfdGl0bGVfdHlwb2dyYXBoeV9saW5lX2hlaWdodF9tb2JpbGUiOnsidW5pdCI6ImN1c3RvbSIsInNpemUiOiIiLCJzaXplcyI6W119LCJiZWZvcmVfdGl0bGVfc3BhY2luZyI6eyJ1bml0IjoicHgiLCJzaXplIjoxNiwic2l6ZXMiOltdfSwiYnV0dG9uX3R5cG9ncmFwaHlfdHlwb2dyYXBoeSI6ImN1c3RvbSIsImJ1dHRvbl90eXBvZ3JhcGh5X2ZvbnRfc2l6ZSI6eyJ1bml0IjoicHgiLCJzaXplIjoxNSwic2l6ZXMiOltdfSwiYnV0dG9uX3R5cG9ncmFwaHlfZm9udF93ZWlnaHQiOiI2MDAiLCJkb3RzX3NwYWNpbmdfdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjIwLCJzaXplcyI6W119LCJkb3RzX3NwYWNpbmdfbW9iaWxlIjp7InVuaXQiOiJweCIsInNpemUiOjEwLCJzaXplcyI6W119LCJuYXZpZ2F0aW9uX2NsYXNzZXMiOiJkb3RzIiwic2xpZGVzX2JvcmRlcl9yYWRpdXMiOnsidW5pdCI6InB4IiwidG9wIjoiMTAiLCJyaWdodCI6IjEwIiwiYm90dG9tIjoiMTAiLCJsZWZ0IjoiMTAiLCJpc0xpbmtlZCI6dHJ1ZX0sImJlZm9yZV90aXRsZV90eXBvZ3JhcGh5X2ZvbnRfc2l6ZSI6eyJ1bml0IjoicHgiLCJzaXplIjoxMiwic2l6ZXMiOltdfSwiYnV0dG9uX3N0eWxlIjoibGlnaHQiLCJkb3RfaXRlbV9jb2xvciI6IiNGRkZGRkYiLCJkb3RfaXRlbV9hY3RpdmVfY29sb3IiOiIjRkZGRkZGIiwidGl0bGVfdHlwb2dyYXBoeV9sZXR0ZXJfc3BhY2luZ19tb2JpbGUiOnsidW5pdCI6InB4Iiwic2l6ZSI6LTEuMzA1Niwic2l6ZXMiOltdfSwidGl0bGVfc3BhY2luZ19tb2JpbGUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTYsInNpemVzIjpbXX0sImRlc2NyaXB0aW9uX2NvbG9yIjoiI0ZGRkZGRiIsImRlc2NyaXB0aW9uX3R5cG9ncmFwaHlfdHlwb2dyYXBoeSI6ImN1c3RvbSIsImRlc2NyaXB0aW9uX3R5cG9ncmFwaHlfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjE2LCJzaXplcyI6W119LCJhc3BlY3RfcmF0aW9fdHlwZSI6ImN1c3RvbSIsImFzcGVjdF9yYXRpbyI6IjcxNjoyMjEiLCJhc3BlY3RfcmF0aW9fbW9iaWxlX3R5cGUiOiJjdXN0b20iLCJhc3BlY3RfcmF0aW9fbW9iaWxlIjoiNjo1IiwidGl0bGVfdHlwb2dyYXBoeV9saW5lX2hlaWdodCI6eyJ1bml0IjoicHgiLCJzaXplIjo5MCwic2l6ZXMiOltdfSwiYmVmb3JlX3RpdGxlX3NwYWNpbmdfdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjE3LCJzaXplcyI6W119LCJ0aXRsZV90eXBvZ3JhcGh5X2xldHRlcl9zcGFjaW5nX3RhYmxldCI6eyJ1bml0IjoicHgiLCJzaXplIjotMi4xNjU4Miwic2l6ZXMiOltdfSwidGl0bGVfc3BhY2luZ190YWJsZXQiOnsidW5pdCI6InB4Iiwic2l6ZSI6MzUsInNpemVzIjpbXX0sInNsaWRlc19ob3Jpem9udGFsX3Bvc2l0aW9uIjoiY2VudGVyIiwic2xpZGVzX2NvbnRlbnRfd2lkdGgiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTM4MCwic2l6ZXMiOltdfSwiX2Nzc19jbGFzc2VzIjoiZ2xvemluLXNtYXJ0LXJ0bC1iYW5uZXIiLCJidXR0b25fbWluX3dpZHRoIjp7InVuaXQiOiJweCIsInNpemUiOjIwMCwic2l6ZXMiOltdfSwiYnV0dG9uX21pbl93aWR0aF9tb2JpbGUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTgwLCJzaXplcyI6W119LCJhc3BlY3RfcmF0aW9fdHlwZV9tb2JpbGUiOiJzcXVhcmUiLCJuYXZpZ2F0aW9uX2NsYXNzZXNfbW9iaWxlIjoiZG90cyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4tc2xpZGVzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-741f02f0 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"741f02f0\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjFkOWU4MzIxIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaXRlbXMiOlt7InRleHQiOiJHcmVhdC1GcmVlIHJldHVybnMgcHJvZHVjdCB3aXRoaW4gMTAgZGF5cyIsIl9pZCI6IjdkYTdmNzYiLCJ0eXBlIjoiaWNvbiIsImljb24iOnsidmFsdWUiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wM1wvc3Rhci5zdmciLCJpZCI6OTYyfSwibGlicmFyeSI6InN2ZyJ9LCJpbWFnZSI6eyJpZCI6MzA2MiwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvd29vY29tbWVyY2UtcGxhY2Vob2xkZXItNjAweDc5Ny0xLndlYnAifX0seyJ0ZXh0IjoiU3Vic2NyaWJlIGFuZCBnZXQgMTAlIG9mZiB5b3VyIGZpcnN0IHB1cmNoYXNlIiwidHlwZSI6Imljb24iLCJpY29uIjp7InZhbHVlIjp7InVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDNcL3N0YXIuc3ZnIiwiaWQiOjk2Mn0sImxpYnJhcnkiOiJzdmcifSwiX2lkIjoiMTQ1MWQ4ZiIsImltYWdlIjp7ImlkIjozMDYzLCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA0XC93b29jb21tZXJjZS1wbGFjZWhvbGRlci02MDB4Nzk3LTIud2VicCJ9fV0sInNwZWVkIjowLjIsInBhZGRpbmciOnsidW5pdCI6InB4IiwidG9wIjoiMjIiLCJyaWdodCI6IjAiLCJib3R0b20iOiIyMiIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiZ2FwIjp7InVuaXQiOiJweCIsInNpemUiOjUwLCJzaXplcyI6W119LCJib3JkZXJfYm9yZGVyIjoibm9uZSIsImJvcmRlcl93aWR0aCI6eyJ1bml0IjoicHgiLCJ0b3AiOiIxIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMSIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYm9yZGVyX2NvbG9yIjoiIzExMTExMSIsInNwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6NTAsInNpemVzIjpbXX0sInRleHRfdHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidGV4dF90eXBvZ3JhcGh5X2ZvbnRfc2l6ZSI6eyJ1bml0IjoicHgiLCJzaXplIjoxNSwic2l6ZXMiOltdfSwidGV4dF90eXBvZ3JhcGh5X2ZvbnRfd2VpZ2h0IjoiNjAwIiwidGV4dF9jb2xvciI6IiMxMTExMTEiLCJpY29uX3NpemUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTIsInNpemVzIjpbXX0sImljb25fY29sb3IiOiIjMTExMTExIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6Imdsb3ppbi1tYXJxdWVlIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-6ea4a280 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"6ea4a280\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-6eb896bd e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"6eb896bd\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjIzYTU3NWUzIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJUb2RheSdzIERlYWxzXG4iLCJhbGlnbiI6ImNlbnRlciIsInR5cG9ncmFwaHlfdHlwb2dyYXBoeSI6ImN1c3RvbSIsInR5cG9ncmFwaHlfbGV0dGVyX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6LTEuMjI0LCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLWhlYWRpbmcifQ==\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6Ijc4MDIxZmNiIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJFeHByZXNzIHlvdXIgc3R5bGUgd2l0aCBvdXIgc3RhbmRvdXQgY29sbGVjdGlvblx1MjAxNGZhc2hpb24gbWVldHMgc29waGlzdGljYXRpb24uIiwidGl0bGVfc2l6ZSI6ImRpdiIsImFsaWduIjoiY2VudGVyIiwiX3BhZGRpbmciOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIzIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJfcGFkZGluZ190YWJsZXQiOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIzIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLWhlYWRpbmcifQ==\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjQwZDg3Yzg0IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidHlwZSI6ImN1c3RvbV9wcm9kdWN0cyIsInNsaWRlc190b19zaG93X3RhYmxldCI6Mywic2xpZGVzX3RvX3Nob3dfbW9iaWxlIjoxLCJzbGlkZXNfdG9fc2Nyb2xsX21vYmlsZSI6MiwiaW1hZ2Vfc3BhY2luZ19jdXN0b21fbW9iaWxlIjoxNSwibmF2aWdhdGlvbl9jbGFzc2VzX21vYmlsZSI6ImRvdHMiLCJhbGlnbm1lbnQiOiJjZW50ZXIiLCJsaW1pdCI6NiwiaW1hZ2Vfc3BhY2luZ19jdXN0b20iOjIwLCJpZHMiOiIzMDMwLDI5NjMsMzA0MCwzMDUwLDI5MjEsMjkyNyIsInByb2R1Y3RfaXRlbV9iYWNrZ3JvdW5kX2NvbG9yIjoiI0ZGRkZGRiIsInByb2R1Y3RfaXRlbV9wYWRkaW5nIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIyMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwicHJvZHVjdF9pdGVtX2JvcmRlcl9yYWRpdXMiOnsidW5pdCI6InB4IiwidG9wIjoiMTAiLCJyaWdodCI6IjEwIiwiYm90dG9tIjoiMTAiLCJsZWZ0IjoiMTAiLCJpc0xpbmtlZCI6dHJ1ZX0sInByb2R1Y3RfaW1hZ2VfYm9yZGVyX3JhZGl1cyI6eyJ1bml0IjoicHgiLCJ0b3AiOiIxMCIsInJpZ2h0IjoiMTAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLXByb2R1Y3RzLWNhcm91c2VsIn0=\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-6502525d e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"6502525d\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjVmZGRlYzliIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJCZXN0IFNlbGxpbmciLCJhbGlnbiI6ImNlbnRlciIsInR5cG9ncmFwaHlfdHlwb2dyYXBoeSI6ImN1c3RvbSIsInR5cG9ncmFwaHlfbGV0dGVyX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6LTEuMjI0LCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLWhlYWRpbmcifQ==\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjRhYTNlM2MxIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJVbm1hdGNoZWQgZGVzaWduXHUyMDE0c3VwZXJpb3IgcGVyZm9ybWFuY2UgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbiBpbiBvbmUuIiwidGl0bGVfc2l6ZSI6ImRpdiIsImFsaWduIjoiY2VudGVyIiwiX3BhZGRpbmciOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIzIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJfcGFkZGluZ190YWJsZXQiOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIzIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLWhlYWRpbmcifQ==\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjNhZjJjNTQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsaW1pdCI6OCwic2xpZGVzX3Jvd3MiOjIsInNsaWRlc19yb3dzX21vYmlsZSI6MSwic2xpZGVzX3RvX3Nob3dfbW9iaWxlIjoyLCJpbWFnZV9zcGFjaW5nX2N1c3RvbV90YWJsZXQiOjE1LCJuYXZpZ2F0aW9uX2NsYXNzZXNfdGFibGV0IjoiZG90cyIsIm5hdmlnYXRpb25fY2xhc3Nlc19tb2JpbGUiOiJkb3RzIiwic2xpZGVzX3Jvd3NfdGFibGV0IjoyLCJzbGlkZXNfdG9fc2hvd190YWJsZXQiOjMsInNsaWRlc190b19zY3JvbGxfbW9iaWxlIjoyLCJ0eXBlIjoiY3VzdG9tX3Byb2R1Y3RzIiwiaWRzIjoiMzAyMCwzMDEwLDI5ODksMjk4MywzMDMwLDI5NzMsMjk1NywyOTk5IiwiaW1hZ2Vfc3BhY2luZ19jdXN0b21fbW9iaWxlIjoxNX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6Imdsb3ppbi1wcm9kdWN0cy1jYXJvdXNlbCJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjE4YThlYjcxIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiYnV0dG9uX3RleHQiOiJTaG93IEFsbCBQcm9kdWN0cyIsImFsaWduIjoiY2VudGVyIiwiYnV0dG9uX2xpbmsiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvc2hvcFwvIiwiaXNfZXh0ZXJuYWwiOiIiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn0sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMjUiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJidXR0b25fbWluX3dpZHRoIjp7InVuaXQiOiJweCIsInNpemUiOjIyMCwic2l6ZXMiOltdfSwiYnV0dG9uX21pbl93aWR0aF9tb2JpbGUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MjAwLCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLWJ1dHRvbiJ9\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-6ef74de6 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"6ef74de6\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-7153670e e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"7153670e\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjQ4NTBiYTVhIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaXRlbXMiOlt7ImltYWdlIjp7ImlkIjozMDMxLCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA0XC9wcm9kdWN0c193aWdzXzJfMS1taW4ud2VicCIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJzaXplIjoiIn0sImxpbmsiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvcHJvZHVjdC1jYXRlZ29yeVwvY3VybHktd2lnc1wvIiwiaXNfZXh0ZXJuYWwiOiIiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn0sInRpdGxlIjoiVW5kZXIgJDUxNy4wMDxiciBjbGFzcz1cImQtbm9uZSBkLWJsb2NrLXhsXCJcLz5cbkxhdmVuZGVyIEhhemUgU3R5bGVzIiwiX2lkIjoiOWE2ZmNlYSIsInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyIsImRlc2NyaXB0aW9uIjoiU3RlcCBpbnRvIGVsZWdhbmNlIHdpdGggbmF0dXJhbCBsb29rcyBhbmQgZW5kbGVzcyBzdHlsZS4iLCJidXR0b25fdGV4dCI6IkV4cGxvcmUgTm93In0seyJpbWFnZSI6eyJpZCI6IiIsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL2VsZW1lbnRvclwvYXNzZXRzXC9pbWFnZXNcL3BsYWNlaG9sZGVyLnBuZyJ9LCJsaW5rIjp7InVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3Byb2R1Y3QtY2F0ZWdvcnlcL2N1cmx5LXdpZ3NcLyIsImlzX2V4dGVybmFsIjoiIiwibm9mb2xsb3ciOiIiLCJjdXN0b21fYXR0cmlidXRlcyI6IiJ9LCJ0aXRsZSI6IlNhdmUgJDM1MC4wMDxiciBjbGFzcz1cImQtbm9uZSBkLWJsb2NrLXhsXCJcLz5cbkJlc3QgQ2hvaWNlXHUyMDE0QmxlbmQgV2lncyIsIl9pZCI6IjA5NDdmYWEiLCJpbWFnZV90eXBlIjoidmlkZW8iLCJtZWRpYV91cmwiOnsiaWQiOjMwODYsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL2gtd2lncy12aWRlby5tcDQiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5Iiwic2l6ZSI6IiJ9LCJ5b3V0dWJlX3VybCI6Imh0dHBzOlwvXC93d3cueW91dHViZS5jb21cL3dhdGNoP3Y9WEhPbUJWNGpzX0UiLCJ2aW1lb191cmwiOiJodHRwczpcL1wvdmltZW8uY29tXC8yMzUyMTUyMDMiLCJkZXNjcmlwdGlvbiI6IkV4cGxvcmUgb3VyIGxpbWl0ZWQtZWRpdGlvbiBjb2xsZWN0aW9uIGZvciB0aGUgbGF0ZXN0IHRyZW5kcy4iLCJidXR0b25fdGV4dCI6IkV4cGxvcmUgTm93IiwicG9zdGVyX3VybCI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA1XC9oLWFjdGl2ZXdlYXItdmlkZW8ud2VicCIsImlkIjozMjk5LCJzaXplIjoiIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSJ9fSx7ImltYWdlIjp7ImlkIjozMDQxLCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA0XC9wcm9kdWN0c193aWdzXzFfMS1taW4ud2VicCIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJzaXplIjoiIn0sImxpbmsiOnsidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvcHJvZHVjdC1jYXRlZ29yeVwvY3VybHktd2lnc1wvIiwiaXNfZXh0ZXJuYWwiOiIiLCJub2ZvbGxvdyI6IiIsImN1c3RvbV9hdHRyaWJ1dGVzIjoiIn0sInRpdGxlIjoiVW5kZXIgJDU3NS4wMDxiciBjbGFzcz1cImQtbm9uZSBkLWJsb2NrLXhsXCJcLz5cblRyYW5zZm9ybSBZb3VyIExvb2sgIiwiX2lkIjoiMzIyYTVmNCIsInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyIsImRlc2NyaXB0aW9uIjoiRXhwbG9yZSBvdXIgZXhjbHVzaXZlIHBpZWNlcyB0byBlbGV2YXRlIHlvdXIgbG9vay4iLCJidXR0b25fdGV4dCI6IkV4cGxvcmUgTm93In1dLCJzbGlkZXNfdG9fc2hvdyI6MywiaW1hZ2Vfc3BhY2luZ19jdXN0b20iOjIwLCJhc3BlY3RfcmF0aW9fdHlwZSI6ImN1c3RvbSIsImFzcGVjdF9yYXRpbyI6IjQ1Nzo2MDAiLCJ0aXRsZV90eXBvZ3JhcGh5X3R5cG9ncmFwaHkiOiJjdXN0b20iLCJ0aXRsZV90eXBvZ3JhcGh5X2ZvbnRfc2l6ZSI6eyJ1bml0IjoicHgiLCJzaXplIjoyOCwic2l6ZXMiOltdfSwidGl0bGVfdHlwb2dyYXBoeV9saW5lX2hlaWdodCI6eyJ1bml0IjoicHgiLCJzaXplIjozNCwic2l6ZXMiOltdfSwidGl0bGVfdHlwb2dyYXBoeV9sZXR0ZXJfc3BhY2luZyI6eyJ1bml0IjoicHgiLCJzaXplIjotMC45NTIsInNpemVzIjpbXX0sImRlc2NyaXB0aW9uX3R5cG9ncmFwaHlfdHlwb2dyYXBoeSI6ImN1c3RvbSIsImRlc2NyaXB0aW9uX3R5cG9ncmFwaHlfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjE0LCJzaXplcyI6W119LCJpbWFnZV9zcGFjaW5nIjp7InVuaXQiOiJweCIsInNpemUiOjI0LCJzaXplcyI6W119LCJuYXZpZ2F0aW9uX2NsYXNzZXNfdGFibGV0IjoiZG90cyIsIm5hdmlnYXRpb25fY2xhc3Nlc19tb2JpbGUiOiJkb3RzIiwidGl0bGVfdHlwb2dyYXBoeV9mb250X3NpemVfdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjI0LCJzaXplcyI6W119LCJ0aXRsZV90eXBvZ3JhcGh5X2ZvbnRfc2l6ZV9tb2JpbGUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MjMsInNpemVzIjpbXX0sInRpdGxlX3R5cG9ncmFwaHlfbGluZV9oZWlnaHRfdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjI4LCJzaXplcyI6W119LCJ0aXRsZV90eXBvZ3JhcGh5X2xpbmVfaGVpZ2h0X21vYmlsZSI6eyJ1bml0IjoicHgiLCJzaXplIjoiIiwic2l6ZXMiOltdfSwic2xpZGVzX3RvX3Nob3dfdGFibGV0IjoyLCJzbGlkZXNfdG9fc2hvd19tb2JpbGUiOjEsImJ1dHRvbl9taW5fd2lkdGgiOnsidW5pdCI6InB4Iiwic2l6ZSI6MjAwLCJzaXplcyI6W119LCJidXR0b25fbWluX3dpZHRoX21vYmlsZSI6eyJ1bml0IjoicHgiLCJzaXplIjoxODAsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4taW1hZ2UtYm94LWNhcm91c2VsIn0=\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4d530d0b e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"4d530d0b\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjUwZDFjZTk5IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJQb3dlcmZ1bCBTaG9ydCBMb29rcyIsImFsaWduIjoiY2VudGVyIiwidHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidHlwb2dyYXBoeV9sZXR0ZXJfc3BhY2luZyI6eyJ1bml0IjoicHgiLCJzaXplIjotMS4yMjQsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4taGVhZGluZyJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6ImM5ZTZhOSIsImVsVHlwZSI6IndpZGdldCIsInNldHRpbmdzIjp7InRpdGxlIjoiQ2hlY2sgb3V0IHRvZGF5J3MgdHJlbmRpbmcgZmF2b3JpdGVzIGFuZCBkaXNjb3ZlciB0aGUgbXVzdC1oYXZlIHBpY2tzISIsInRpdGxlX3NpemUiOiJkaXYiLCJhbGlnbiI6ImNlbnRlciIsIl9wYWRkaW5nIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIyMyIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiX3BhZGRpbmdfdGFibGV0Ijp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIyMyIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6Imdsb3ppbi1oZWFkaW5nIn0=\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjJiODMwOTg0IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidHlwZSI6ImN1c3RvbV9wcm9kdWN0cyIsInNsaWRlc190b19zaG93X3RhYmxldCI6Mywic2xpZGVzX3RvX3Nob3dfbW9iaWxlIjoyLCJzbGlkZXNfdG9fc2Nyb2xsX21vYmlsZSI6MiwiaW1hZ2Vfc3BhY2luZ19jdXN0b21fbW9iaWxlIjoxNSwibmF2aWdhdGlvbl9jbGFzc2VzX21vYmlsZSI6ImRvdHMiLCJhbGlnbm1lbnQiOiJjZW50ZXIiLCJsaW1pdCI6NiwiaW1hZ2Vfc3BhY2luZ19jdXN0b20iOjIwLCJzYWxlX2Rpc3BsYXkiOiJ5ZXMiLCJtYXJxdWVlX3R5cGUiOiJpY29uIiwibWFycXVlZV9pY29uIjp7InZhbHVlIjp7InVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdFwvZ2xvemluXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMzJcLzIwMjVcLzA0XC9oLWFjdGl2ZXdlYXItbWFycXVlZS1wcm9kdWN0LnN2ZyIsImlkIjo0OTUwfSwibGlicmFyeSI6InN2ZyJ9LCJtYXJxdWVlX2ltYWdlIjp7InVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdFwvZ2xvemluXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMzJcLzIwMjVcLzA0XC9oLWNvc21ldGljLWNhdHMtNC5qcGciLCJpZCI6NDcyOSwic2l6ZSI6IiIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkifSwibWFycXVlZV90ZXh0IjoiSG90IFNhbGUgMTAlIG9mZiIsInNsaWRlc3BlcnZpZXdfYXV0b19tb2JpbGUiOiJ5ZXMiLCJpZHMiOiIyOTQ3LDI5MzcsMjkyNywyOTIxLDI5NTcsMjk2MyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4tcHJvZHVjdHMtY2Fyb3VzZWwifQ==\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-7b0892a4 e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"7b0892a4\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-6e8164d6 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"6e8164d6\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-7f7a6253 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"7f7a6253\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjI0Mzk4MTEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkZlYXR1cmVkIGl0ZW1zIiwidGl0bGVfc2l6ZSI6ImRpdiIsInR5cG9ncmFwaHlfdHlwb2dyYXBoeSI6ImN1c3RvbSIsInR5cG9ncmFwaHlfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjEyLCJzaXplcyI6W119LCJ0eXBvZ3JhcGh5X2ZvbnRfd2VpZ2h0IjoiNjAwIiwidHlwb2dyYXBoeV90ZXh0X3RyYW5zZm9ybSI6InVwcGVyY2FzZSIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sInRpdGxlX2NvbG9yIjoiIzExMTExMSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4taGVhZGluZyJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjdiNmU5Y2JiIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJUcmFuc2Zvcm0gWW91ciBMb29rPGJyIGNsYXNzPVwiZC1ub25lIGQtYmxvY2steGxcIlwvPlxuUGVyZmVjdCBTdHlsZXMhIiwidHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidHlwb2dyYXBoeV9sZXR0ZXJfc3BhY2luZyI6eyJ1bml0IjoicHgiLCJzaXplIjotMS4yMjQsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4taGVhZGluZyJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjU0NjRhMjU1IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJFbGV2YXRlIHlvdXIgbG9vayB3aXRoIHByZW1pdW0sIGhhbmRcdTIwMTRjcmFmdGVkIHdpZ3MgZGVzaWduZWQgZm9yIHRpbWVsZXNzIGVsZWdhbmNlLiIsInRpdGxlX3NpemUiOiJkaXYifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLWhlYWRpbmcifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-1ee8c1b2 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"1ee8c1b2\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjFlM2MxMTMxIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsibGltaXQiOjEsInByb2R1Y3RfY29udGVudF9iZ19jb2xvciI6IiNGNUY1RjUiLCJwcm9kdWN0X2ltYWdlX2JvcmRlcl9yYWRpdXMiOnsidW5pdCI6InB4IiwidG9wIjoiMTAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjEwIiwiaXNMaW5rZWQiOmZhbHNlfSwicHJvZHVjdF9jb250ZW50X2JvcmRlcl9yYWRpdXMiOnsidW5pdCI6InB4IiwidG9wIjoiMTAiLCJyaWdodCI6IjEwIiwiYm90dG9tIjoiMTAiLCJsZWZ0IjoiMTAiLCJpc0xpbmtlZCI6dHJ1ZX0sInByb2R1Y3RzIjoiY3VzdG9tX3Byb2R1Y3RzIiwiaWRzIjoiMzAzMCIsInByb2R1Y3RfY29udGVudF9wYWRkaW5nX3RhYmxldCI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIyMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4tcHJvZHVjdC1saXN0In0=\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-40322b87 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"40322b87\" data-element_type=\"container\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjJjYTdmZjM5IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiYmVmb3JlX2ltYWdlIjp7ImlkIjozMDkyLCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA0XC9oLXdpZ3MtaW1nLWJlZm9yZS53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwiYWZ0ZXJfaW1hZ2UiOnsiaWQiOjMwOTMsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL2gtd2lncy1pbWctYWZ0ZXIud2VicCIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJzaXplIjoiIn0sImJlZm9yZV90ZXh0IjoiQmVmb3JlIiwiYWZ0ZXJfdGV4dCI6IkFmdGVyIiwiYnV0dG9uX3N0eWxlIjoib3V0bGluZSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4taW1hZ2UtYmVmb3JlLWFmdGVyIn0=\"]\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-60e8b557 e-con-full e-flex glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"60e8b557\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-7920b7d9 e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-child\" data-id=\"7920b7d9\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6ImFkMjBjNTEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkN1c3RvbWVyIFNheSEiLCJhbGlnbiI6ImNlbnRlciIsInR5cG9ncmFwaHlfdHlwb2dyYXBoeSI6ImN1c3RvbSIsInR5cG9ncmFwaHlfbGV0dGVyX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6LTEuMjI0LCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLWhlYWRpbmcifQ==\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjRhZTFhZWRhIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJDdXN0b21lcnMgbG92ZSBvdXIgcHJvZHVjdHMgYW5kIHdlIGFsd2F5cyBzdHJpdmUgdG8gcGxlYXNlIHRoZW0gYWxsLiIsInRpdGxlX3NpemUiOiJkaXYiLCJhbGlnbiI6ImNlbnRlciIsIl9wYWRkaW5nIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIyMyIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiX3BhZGRpbmdfdGFibGV0Ijp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIyMyIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6Imdsb3ppbi1oZWFkaW5nIn0=\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjQ2ZmEzZjk1IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGVzdGltb25pYWxzIjpbeyJ0ZXN0aW1vbmlhbF9uYW1lIjoiTWljaGFlbCIsIl9pZCI6ImI4ZDk1ZGUiLCJpbWFnZSI6eyJ1cmwiOiIiLCJpZCI6IiIsInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInRlc3RpbW9uaWFsX3RpdGxlIjoiT3VyIGN1c3RvbWVycyByZXZpZXdzIiwidGVzdGltb25pYWxfY29udGVudCI6IlRoZXNlIGFyZSBzb29vIHByZXR0eSBhbmQgdmVyeSBjb21meS4gUGVyZmVjdCBjb2xvciBhcyB3ZWxsLiBJIGxvdmUgd2VhcmluZyB0aGVzZSB3aXRoIGEgbmV1dHJhbCB0b3AgYW5kIENoZWxzZWEgYm9vdHMuIFdpY2tlZCBjdXRlLi4uXHVkODNkXHVkZTBkIiwidGVzdGltb25pYWxfdGV4dCI6IlZlcmlmaWVkIEJ1eWVyIiwidGVzdGltb25pYWxfcHJvZHVjdF9pZCI6MzAzMCwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIn0seyJ0ZXN0aW1vbmlhbF9uYW1lIjoiQ2FtZXJvbiBTbWl0aCIsIl9pZCI6ImRjMTY0YTkiLCJpbWFnZSI6eyJ1cmwiOiIiLCJpZCI6IiIsInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInRlc3RpbW9uaWFsX3RpdGxlIjoiT3VyIGN1c3RvbWVycyByZXZpZXdzIiwidGVzdGltb25pYWxfY29udGVudCI6IkEgcGVyZmVjdCBwcm9kdWN0LCBpdCBrZWVwcyB5b3UgdmVyeSB3YXJtIHdpdGhvdXQgb3ZlciBoZWF0aW5nLiBUcnVlIHRvIHNpemUsIEkgY291bGRuJ3QgYmUgaGFwcGllciB3aXRoIHRoZSBwdXJjaGFzZS4uLiBUaGFuayB5b3UhIFx1ZDgzZVx1ZGQxNyIsInRlc3RpbW9uaWFsX3RleHQiOiJDaHJpc3RvcGhlciIsInRlc3RpbW9uaWFsX3Byb2R1Y3RfaWQiOjI5MjEsInZpZGVvIjp7InVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdFwvZ2xvemluXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8wNFwvbWQtdGVzdC0yLm1wNCIsImlkIjo3NjEsInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyIsIm1lZGlhX3VybCI6eyJ1cmwiOiIiLCJpZCI6IiIsInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In19LHsidGVzdGltb25pYWxfbmFtZSI6IlN1c2FuIEdpYnNvbi4iLCJfaWQiOiI3NTZmNTIyIiwiaW1hZ2UiOnsidXJsIjoiIiwiaWQiOiIiLCJzaXplIjoiIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSJ9LCJ0ZXN0aW1vbmlhbF90aXRsZSI6Ik91ciBjdXN0b21lcnMgcmV2aWV3cyIsInRlc3RpbW9uaWFsX2NvbnRlbnQiOiJUaGVzZSBhcmUgc29vbyBwcmV0dHkgYW5kIHZlcnkgY29tZnkuIFBlcmZlY3QgY29sb3IgYXMgd2VsbC4gSSBsb3ZlIHdlYXJpbmcgdGhlc2Ugd2l0aCBhIG5ldXRyYWwgdG9wIGFuZCBDaGVsc2VhIGJvb3RzLiBXaWNrZWQgY3V0ZS4uLlx1ZDgzZFx1ZGUwZCIsInRlc3RpbW9uaWFsX3RleHQiOiJWZXJpZmllZCBCdXllciIsInRlc3RpbW9uaWFsX3Byb2R1Y3RfaWQiOjMwNDAsInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyJ9LHsidGVzdGltb25pYWxfbmFtZSI6IkNcdTAwZTlsb2RpZSBGLiIsImltYWdlIjp7InVybCI6IiIsImlkIjoiIiwic2l6ZSI6IiIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkifSwidGVzdGltb25pYWxfdGl0bGUiOiJPdXIgY3VzdG9tZXJzIHJldmlld3MiLCJ0ZXN0aW1vbmlhbF9jb250ZW50IjoiQSBwZXJmZWN0IHByb2R1Y3QsIGl0IGtlZXBzIHlvdSB2ZXJ5IHdhcm0gd2l0aG91dCBvdmVyIGhlYXRpbmcuIFRydWUgdG8gc2l6ZSwgSSBjb3VsZG4ndCBiZSBoYXBwaWVyIHdpdGggdGhlIHB1cmNoYXNlLi4uIFRoYW5rIHlvdSEgXHVkODNlXHVkZDE3IiwidGVzdGltb25pYWxfdGV4dCI6IiBBbGdpc3Rpbm8gTGlvbmVsLiIsInRlc3RpbW9uaWFsX3Byb2R1Y3RfaWQiOjMwMTAsInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyIsIl9pZCI6ImFmYWViNWYifSx7InRlc3RpbW9uaWFsX25hbWUiOiJBbGdpc3Rpbm8gTGlvbmVsLiIsImltYWdlIjp7InVybCI6IiIsImlkIjoiIiwic2l6ZSI6IiIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkifSwidGVzdGltb25pYWxfdGl0bGUiOiJPdXIgY3VzdG9tZXJzIHJldmlld3MiLCJ0ZXN0aW1vbmlhbF9jb250ZW50IjoiVGhlc2UgYXJlIHNvb28gcHJldHR5IGFuZCB2ZXJ5IGNvbWZ5LiBQZXJmZWN0IGNvbG9yIGFzIHdlbGwuIEkgbG92ZSB3ZWFyaW5nIHRoZXNlIHdpdGggYSBuZXV0cmFsIHRvcCBhbmQgQ2hlbHNlYSBib290cy4gV2lja2VkIGN1dGUuLi5cdWQ4M2RcdWRlMGQiLCJ0ZXN0aW1vbmlhbF90ZXh0IjoiTWFyaWUtR29zXHUwMGU5ZSBILiIsInRlc3RpbW9uaWFsX3Byb2R1Y3RfaWQiOjI5NzMsInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyIsIl9pZCI6ImFiZWM5YTAifV0sIml0ZW1fYm9yZGVyX3JhZGl1cyI6eyJ1bml0IjoicHgiLCJ0b3AiOiIxMCIsInJpZ2h0IjoiMTAiLCJib3R0b20iOiIxMCIsImxlZnQiOiIxMCIsImlzTGlua2VkIjp0cnVlfSwic2xpZGVzX3RvX3Nob3dfdGFibGV0IjoyLCJzbGlkZXNfdG9fc2hvd19tb2JpbGUiOjEsIm5hdmlnYXRpb25fY2xhc3Nlc19tb2JpbGUiOiJkb3RzIiwibmFtZV90eXBvZ3JhcGh5X2ZvbnRfc2l6ZSI6eyJ1bml0IjoicHgiLCJzaXplIjoyLCJzaXplcyI6W119LCJpbmZpbml0ZSI6InllcyIsInRleHRfdHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidGV4dF90eXBvZ3JhcGh5X2ZvbnRfc3R5bGUiOiJpdGFsaWMiLCJhc3BlY3RfcmF0aW9fdHlwZSI6ImN1c3RvbSIsImFzcGVjdF9yYXRpbyI6IjQ1NzoyNTAiLCJzbGlkZXNfdG9fc2hvdyI6MywiaW1hZ2Vfc3BhY2luZ19jdXN0b20iOjIwLCJhdXRvcGxheSI6InllcyIsIml0ZW1fYmFja2dyb3VuZF9jb2xvciI6IiNGRkZGRkYiLCJwcm9kdWN0X3BhZGRpbmciOnsidW5pdCI6InB4IiwidG9wIjoiMjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJwcm9kdWN0X21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIyMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sIm5hdmlnYXRpb25fY2xhc3Nlc190YWJsZXQiOiJkb3RzIiwicmF0aW5nX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiOCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiaXRlbV9ib3JkZXJfYm9yZGVyIjoibm9uZSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4tdGVzdGltb25pYWwtY2Fyb3VzZWwifQ==\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-1d3fa14b e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"1d3fa14b\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjMyODJjMWY3IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJTaG9wIGJ5IEdyYW0iLCJhbGlnbiI6ImNlbnRlciIsInR5cG9ncmFwaHlfdHlwb2dyYXBoeSI6ImN1c3RvbSIsInR5cG9ncmFwaHlfZm9udF9zaXplX3RhYmxldCI6eyJ1bml0IjoicHgiLCJzaXplIjozMSwic2l6ZXMiOltdfSwidHlwb2dyYXBoeV9sZXR0ZXJfc3BhY2luZyI6eyJ1bml0IjoicHgiLCJzaXplIjotMS4yMjQsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4taGVhZGluZyJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjQ3MWM3YmVjIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsidGl0bGUiOiJJbnNwaXJlIGFuZCBsZXQgeW91cnNlbGYgYmUgaW5zcGlyZWQsIGZyb20gb25lIHVuaXF1ZSBmYXNoaW9uIHRvIGFub3RoZXIuIiwidGl0bGVfc2l6ZSI6ImRpdiIsImFsaWduIjoiY2VudGVyIiwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjMiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJnbG96aW4taGVhZGluZyJ9\"][elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjczMjRmNDAyIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaW1hZ2VzIjpbeyJfaWQiOiJhNWRiM2FmIiwiaW1hZ2UiOnsiaWQiOjMxMDEsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL2gtd2lncy1pbnMtMS53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIiwic2hvcHBhYmxlX2ltYWdlcyI6ODk2fSx7Il9pZCI6IjlmMjhmZTUiLCJtZWRpYV91cmwiOnsiaWQiOiIiLCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC9wbHVnaW5zXC9lbGVtZW50b3JcL2Fzc2V0c1wvaW1hZ2VzXC9wbGFjZWhvbGRlci5wbmcifSwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIiwic2hvcHBhYmxlX2ltYWdlcyI6OTE4LCJpbWFnZSI6eyJpZCI6MzEwMiwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWlucy0yLndlYnAiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5Iiwic2l6ZSI6IiJ9fSx7Il9pZCI6IjZmZjJlODgiLCJpbWFnZSI6eyJpZCI6MzEwMywidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWlucy0zLndlYnAiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5Iiwic2l6ZSI6IiJ9LCJ5b3V0dWJlX3VybCI6Imh0dHBzOlwvXC93d3cueW91dHViZS5jb21cL3dhdGNoP3Y9WEhPbUJWNGpzX0UiLCJ2aW1lb191cmwiOiJodHRwczpcL1wvdmltZW8uY29tXC8yMzUyMTUyMDMiLCJzaG9wcGFibGVfaW1hZ2VzIjo5MzR9LHsiX2lkIjoiNWIwMDliZiIsImltYWdlIjp7ImlkIjozMTA0LCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA0XC9oLXdpZ3MtaW5zLTQud2VicCIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJzaXplIjoiIn0sInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyIsInNob3BwYWJsZV9pbWFnZXMiOjk0OX0seyJfaWQiOiI4ZDdjYzYzIiwibWVkaWFfdXJsIjp7ImlkIjoiIiwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yXC9hc3NldHNcL2ltYWdlc1wvcGxhY2Vob2xkZXIucG5nIn0sInlvdXR1YmVfdXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvd2F0Y2g\/dj1YSE9tQlY0anNfRSIsInZpbWVvX3VybCI6Imh0dHBzOlwvXC92aW1lby5jb21cLzIzNTIxNTIwMyIsInNob3BwYWJsZV9pbWFnZXMiOjk2MiwiaW1hZ2UiOnsiaWQiOjMxMDUsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL2gtd2lncy1pbnMtNS53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifX0seyJfaWQiOiI0Mjc3MDc4IiwiaW1hZ2UiOnsiaWQiOjMxMDYsInVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL2gtd2lncy1pbnMtNi53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIiwic2hvcHBhYmxlX2ltYWdlcyI6OTcxfSx7Il9pZCI6ImYxZjM2YmYiLCJpbWFnZSI6eyJpZCI6MzEwNywidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWlucy03LndlYnAiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5Iiwic2l6ZSI6IiJ9LCJ5b3V0dWJlX3VybCI6Imh0dHBzOlwvXC93d3cueW91dHViZS5jb21cL3dhdGNoP3Y9WEhPbUJWNGpzX0UiLCJ2aW1lb191cmwiOiJodHRwczpcL1wvdmltZW8uY29tXC8yMzUyMTUyMDMifSx7Il9pZCI6ImU5M2MxYzIiLCJpbWFnZSI6eyJpZCI6MzEwOCwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWlucy04LndlYnAiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5Iiwic2l6ZSI6IiJ9LCJ5b3V0dWJlX3VybCI6Imh0dHBzOlwvXC93d3cueW91dHViZS5jb21cL3dhdGNoP3Y9WEhPbUJWNGpzX0UiLCJ2aW1lb191cmwiOiJodHRwczpcL1wvdmltZW8uY29tXC8yMzUyMTUyMDMifSx7Il9pZCI6Ijg3YmViYzAiLCJpbWFnZSI6eyJpZCI6MzEwOSwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWlucy05LndlYnAiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5Iiwic2l6ZSI6IiJ9LCJ5b3V0dWJlX3VybCI6Imh0dHBzOlwvXC93d3cueW91dHViZS5jb21cL3dhdGNoP3Y9WEhPbUJWNGpzX0UiLCJ2aW1lb191cmwiOiJodHRwczpcL1wvdmltZW8uY29tXC8yMzUyMTUyMDMifSx7Il9pZCI6IjFjOThhOWYiLCJpbWFnZSI6eyJpZCI6MzExMCwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzEyXC8yMDI1XC8wNFwvaC13aWdzLWlucy0xMC53ZWJwIiwiYWx0IjoiIiwic291cmNlIjoibGlicmFyeSIsInNpemUiOiIifSwieW91dHViZV91cmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PVhIT21CVjRqc19FIiwidmltZW9fdXJsIjoiaHR0cHM6XC9cL3ZpbWVvLmNvbVwvMjM1MjE1MjAzIn1dLCJzbGlkZXNfdG9fc2hvd190YWJsZXQiOjMsInNsaWRlc190b19zaG93X21vYmlsZSI6MiwibmF2aWdhdGlvbl9jbGFzc2VzIjoibm9uZSIsIm5hdmlnYXRpb25fY2xhc3Nlc190YWJsZXQiOiJkb3RzIiwibmF2aWdhdGlvbl9jbGFzc2VzX21vYmlsZSI6ImRvdHMiLCJzbGlkZXNfdG9fc2hvdyI6NSwic2xpZGVzX3Jvd3MiOjIsImljb25fcG9zaXRpb24iOiJtaWRkbGUifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLXNob3BwYWJsZS1pbWFnZXMtY2Fyb3VzZWwifQ==\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-24dc1bbc e-flex e-con-boxed glozin-responsive-column glozin-tablet-column--default glozin-responsive-column glozin-mobile-column--default glozin-responsive-column glozin-motion--var(--position) e-con e-parent\" data-id=\"24dc1bbc\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"f834d7f22c4902769696ce3f24f015da\" data=\"eyJpZCI6IjNmYTRhZjI5IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiaWNvbnNfYm94IjpbeyJpY29uIjp7InZhbHVlIjp7InVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL3NoaXBwaW5nLnN2ZyIsImlkIjozMTE5fSwibGlicmFyeSI6InN2ZyJ9LCJ0aXRsZSI6IkZyZWUgU2hpcHBpbmciLCJkZXNjcmlwdGlvbiI6IkVuam95IGZyZWUgd29ybGR3aWRlIHNoaXBwaW5nIGFuZCByZXR1cm5zLCB3aXRoPGJyIGNsYXNzPVwiZC1ub25lIGQtYmxvY2steGxcIlwvPiBjdXN0b21zIGFuZCBkdXRpZXMgdGF4ZXMgaW5jbHVkZWQuIiwiX2lkIjoiM2U3NGJkNCIsInRpdGxlX3NpemUiOiJoNiIsImltYWdlIjp7ImlkIjoiIiwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yXC9hc3NldHNcL2ltYWdlc1wvcGxhY2Vob2xkZXIucG5nIn19LHsiaWNvbiI6eyJ2YWx1ZSI6eyJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC91cGxvYWRzXC9zaXRlc1wvMTJcLzIwMjVcLzA0XC9yZXR1cm4uc3ZnIiwiaWQiOjMxMTh9LCJsaWJyYXJ5Ijoic3ZnIn0sInRpdGxlIjoiRnJlZSBSZXR1cm5zIiwiZGVzY3JpcHRpb24iOiJGcmVlIHJldHVybnMgd2l0aGluIDE1IGRheXMsIHBsZWFzZSBtYWtlIHN1cmUgdGhlPGJyIGNsYXNzPVwiZC1ub25lIGQtYmxvY2steGxcIlwvPiBpdGVtcyBhcmUgaW4gdW5kYW1hZ2VkIGNvbmRpdGlvbi4iLCJfaWQiOiI1MGY4YWQwIiwidGl0bGVfc2l6ZSI6Img2IiwiaW1hZ2UiOnsiaWQiOiIiLCJ1cmwiOiJodHRwczpcL1wvd3BnbG96aW4uY29tXC93aWdzXC93cC1jb250ZW50XC9wbHVnaW5zXC9lbGVtZW50b3JcL2Fzc2V0c1wvaW1hZ2VzXC9wbGFjZWhvbGRlci5wbmcifX0seyJpY29uIjp7InZhbHVlIjp7InVybCI6Imh0dHBzOlwvXC93cGdsb3ppbi5jb21cL3dpZ3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC8xMlwvMjAyNVwvMDRcL3N1cHBvcnQuc3ZnIiwiaWQiOjMxMjB9LCJsaWJyYXJ5Ijoic3ZnIn0sInRpdGxlIjoiU3VwcG9ydCBPbmxpbmUiLCJkZXNjcmlwdGlvbiI6IldlIHN1cHBvcnQgY3VzdG9tZXJzIDI0XC83LCBzZW5kIHF1ZXN0aW9ucyB3ZSB3aWxsPGJyIGNsYXNzPVwiZC1ub25lIGQtYmxvY2steGxcIlwvPiBzb2x2ZSBmb3IgeW91IGltbWVkaWF0ZWx5LiIsInRpdGxlX3NpemUiOiJoNiIsImltYWdlIjp7ImlkIjoiIiwidXJsIjoiaHR0cHM6XC9cL3dwZ2xvemluLmNvbVwvd2lnc1wvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yXC9hc3NldHNcL2ltYWdlc1wvcGxhY2Vob2xkZXIucG5nIn0sIl9pZCI6IjA5MThkOGYifV0sInNsaWRlc190b19zaG93X21vYmlsZSI6MSwibmF2aWdhdGlvbl9jbGFzc2VzIjoibm9uZSIsIm5hdmlnYXRpb25fY2xhc3Nlc19tb2JpbGUiOiJkb3RzIiwiaWNvbl9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjMyLCJzaXplcyI6W119LCJzbGlkZXNfdG9fc2hvd190YWJsZXQiOjMsIm5hdmlnYXRpb25fY2xhc3Nlc190YWJsZXQiOiJkb3RzIiwiYWxpZ25tZW50IjoiY2VudGVyIiwidGl0bGVfc3BhY2luZyI6eyJ1bml0IjoicHgiLCJzaXplIjoxMCwic2l6ZXMiOltdfSwidmVydGljYWxfYWxpZ25tZW50IjoibWlkZGxlIiwiaWNvbl9ib3JkZXJfY29sb3IiOiIjRUJFQkVCIiwiYm9yZGVyX3JhZGl1cyI6eyJ1bml0IjoiJSIsInRvcCI6IiIsInJpZ2h0IjoiIiwiYm90dG9tIjoiIiwibGVmdCI6IiIsImlzTGlua2VkIjp0cnVlfSwiaWNvbl9zcGFjaW5nIjp7InVuaXQiOiJweCIsInNpemUiOjE0LCJzaXplcyI6W119LCJpY29uX2NvbG9yIjoiIzExMTExMSIsInRpdGxlX3NpemUiOiJkaXYifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ2xvemluLWljb24tYm94LWNhcm91c2VsIn0=\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12817,111 +12653,6 @@ History Of Glozin's Store				</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[All Categories]]></title>
-		<link>https://wpglozin.com/wigs/all-categories/</link>
-		<pubDate>Tue, 08 Apr 2025 09:28:05 +0000</pubDate>
-		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?page_id=1211</guid>
-		<description/>
-		<content:encoded><![CDATA[<a href="#">
-						<img src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/woocommerce-placeholder-400x531.webp" title="Colored Wigs" alt="Colored Wigs" loading="lazy"/>
-								Colored Wigs
-					</a>
-					<a href="#">
-						<img src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/woocommerce-placeholder-400x531.webp" title="Short Wigs" alt="Short Wigs" loading="lazy"/>
-								Short Wigs
-					</a>
-					<a href="#">
-						<img src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/woocommerce-placeholder-400x531.webp" title="Glueless Wigs" alt="Glueless Wigs" loading="lazy"/>
-								Glueless Wigs
-					</a>
-					<a href="#">
-						<img src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/woocommerce-placeholder-400x531.webp" title="Curly Wigs" alt="Curly Wigs" loading="lazy"/>
-								Curly Wigs
-					</a>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1211</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-08 09:28:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-08 09:28:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-05 08:53:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-05 08:53:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[all-categories]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_header_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Explore our thoughtfully curated collections: Sweaters, Handbags, Denim, and more—each
-perfect for enhancing every style on every special occasion and daily wear.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.30.0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"ffb5a37","elType":"container","settings":{"flex_wrap_mobile":"nowrap"},"elements":[{"id":"27c8f06","elType":"widget","settings":{"pagination":"yes","pagination_type":"loadmore","button_min_width":{"unit":"px","size":180,"sizes":[]},"button_min_width_mobile":{"unit":"px","size":130,"sizes":[]}},"elements":[],"widgetType":"glozin-products-categories-grid"}],"isInner":false}]</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_header_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Explore our thoughtfully curated collections: Sweaters, Handbags, Denim, and more—each
-perfect for enhancing every style on every special occasion and daily wear.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.30.0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"ffb5a37","elType":"container","settings":{"flex_wrap_mobile":"nowrap"},"elements":[{"id":"27c8f06","elType":"widget","settings":{"pagination":"yes","pagination_type":"loadmore","button_min_width":{"unit":"px","size":180,"sizes":[]},"button_min_width_mobile":{"unit":"px","size":130,"sizes":[]}},"elements":[],"widgetType":"glozin-products-categories-grid"}],"isInner":false}]</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[popup_include_pages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[popup_exclude_pages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Shopping Cart]]></title>
 		<link>https://wpglozin.com/wigs/shopping-cart/</link>
 		<pubDate>Tue, 18 Mar 2025 04:20:26 +0000</pubDate>
@@ -13141,6 +12872,91 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[popup_exclude_pages]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Load more button]]></title>
+		<link>https://wpglozin.com/wigs/load-more-button-2/</link>
+		<pubDate>Thu, 17 Apr 2025 11:21:33 +0000</pubDate>
+		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://wpglozin.com/wigs/2025/04/17/load-more-button-2/</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1720</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-27 02:26:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-17 11:21:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-27 02:26:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-27 02:26:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[load-more-button-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>13</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1701]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1720]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-24]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-25]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-29]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-05-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14631,8 +14447,8 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
 		<category domain="post_tag" nicename="life-style"><![CDATA[Life Style]]></category>
+		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
 		<category domain="post_tag" nicename="trend"><![CDATA[Trend]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -14733,8 +14549,8 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
 		<category domain="post_tag" nicename="life-style"><![CDATA[Life Style]]></category>
+		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
 		<category domain="post_tag" nicename="trend"><![CDATA[Trend]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -14842,8 +14658,8 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
-		<category domain="post_tag" nicename="life-style"><![CDATA[Life Style]]></category>
+										<category domain="post_tag" nicename="life-style"><![CDATA[Life Style]]></category>
+		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
 		<category domain="post_tag" nicename="outfit"><![CDATA[Outfit]]></category>
 		<category domain="post_tag" nicename="summer"><![CDATA[Summer]]></category>
 		<category domain="post_tag" nicename="trend"><![CDATA[Trend]]></category>
@@ -14990,6 +14806,111 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-03-19]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[All Categories]]></title>
+		<link>https://wpglozin.com/wigs/all-categories/</link>
+		<pubDate>Tue, 08 Apr 2025 09:28:05 +0000</pubDate>
+		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/glozin/?page_id=1211</guid>
+		<description/>
+		<content:encoded><![CDATA[<a href="#">
+						<img src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/woocommerce-placeholder-400x531.webp" title="Colored Wigs" alt="Colored Wigs" loading="lazy"/>
+								Colored Wigs
+					</a>
+					<a href="#">
+						<img src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/woocommerce-placeholder-400x531.webp" title="Short Wigs" alt="Short Wigs" loading="lazy"/>
+								Short Wigs
+					</a>
+					<a href="#">
+						<img src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/woocommerce-placeholder-400x531.webp" title="Glueless Wigs" alt="Glueless Wigs" loading="lazy"/>
+								Glueless Wigs
+					</a>
+					<a href="#">
+						<img src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/woocommerce-placeholder-400x531.webp" title="Curly Wigs" alt="Curly Wigs" loading="lazy"/>
+								Curly Wigs
+					</a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1211</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-08 09:28:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-08 09:28:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-05 08:53:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-05 08:53:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[all-categories]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_header_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Explore our thoughtfully curated collections: Sweaters, Handbags, Denim, and more—each
+perfect for enhancing every style on every special occasion and daily wear.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.30.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value>[{"id":"ffb5a37","elType":"container","settings":{"flex_wrap_mobile":"nowrap"},"elements":[{"id":"27c8f06","elType":"widget","settings":{"pagination":"yes","pagination_type":"loadmore","button_min_width":{"unit":"px","size":180,"sizes":[]},"button_min_width_mobile":{"unit":"px","size":130,"sizes":[]}},"elements":[],"widgetType":"glozin-products-categories-grid"}],"isInner":false}]</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_header_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Explore our thoughtfully curated collections: Sweaters, Handbags, Denim, and more—each
+perfect for enhancing every style on every special occasion and daily wear.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.30.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value>[{"id":"ffb5a37","elType":"container","settings":{"flex_wrap_mobile":"nowrap"},"elements":[{"id":"27c8f06","elType":"widget","settings":{"pagination":"yes","pagination_type":"loadmore","button_min_width":{"unit":"px","size":180,"sizes":[]},"button_min_width_mobile":{"unit":"px","size":130,"sizes":[]}},"elements":[],"widgetType":"glozin-products-categories-grid"}],"isInner":false}]</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[popup_include_pages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[popup_exclude_pages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15384,6 +15305,11 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value>[{"id":"ec643dd","elType":"container","settings":{"flex_direction":"row","flex_wrap":"wrap","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"background_background":"video","background_video_link":"https://glozin-demo.myshopify.com/cdn/shop/videos/c/vp/667ddf01f2c9444999fff66403b9858f/667ddf01f2c9444999fff66403b9858f.HD-1080p-7.2Mbps-29882543.mp4?v=0","background_overlay_background":"classic","background_overlay_color":"#A91717","background_overlay_opacity":{"unit":"px","size":0.8,"sizes":[]},"padding":{"unit":"px","top":"100","right":"0","bottom":"105","left":"0","isLinked":false},"background_video_fallback":{"id":"2528","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/promo_sale.webp"},"padding_mobile":{"unit":"px","top":"75","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"f2d8b3f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"100"},"flex_gap":{"column":"10","row":"10","isLinked":true,"unit":"px","size":10}},"elements":[{"id":"700982d","elType":"widget","settings":{"title":" Black Friday&lt;br&gt;Sale Up to 75% Off","align":"center","title_color":"#FFFFFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":80,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":56,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":51,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"486ceb9","elType":"widget","settings":{"title":"Black Friday sale up to 75% all items. Hurry up!","title_size":"p","align":"center","title_color":"#FFFFFF"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"0f2b2a6","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":100},"margin":{"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false},"container_type":"grid","width_tablet":{"unit":"%","size":"","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_direction_tablet":"row","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap":"wrap","flex_wrap_tablet":"wrap","grid_columns_grid":{"unit":"fr","size":4,"sizes":[]},"grid_columns_grid_tablet":{"unit":"fr","size":2,"sizes":[]},"grid_rows_grid":{"unit":"fr","size":1,"sizes":[]},"grid_gaps":{"column":"30","row":"30","isLinked":true,"unit":"px"},"grid_gaps_tablet":{"column":"15","row":"30","isLinked":false,"unit":"px"},"presetTitle":"Grid","presetIcon":"eicon-container-grid"},"elements":[{"id":"d4e9d52","elType":"container","settings":{"content_width":"full","width":{"unit":"px","size":"","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"boxed_width_tablet":{"unit":"%","size":50,"sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"924ac50","elType":"widget","settings":{"promo_card_subtle":"HOLIDAY","promo_card_title":"Sale 30% Off","promo_card_description":"30% off during the holiday season.","promo_card_code_label":"Use code:","promo_card_code_value":"HOLIDAY30All"},"elements":[],"widgetType":"glozin-promo-card"}],"isInner":true},{"id":"6f68ab3","elType":"container","settings":{"content_width":"full","width_tablet":{"unit":"%","size":"","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"boxed_width_tablet":{"unit":"%","size":50,"sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"522a675","elType":"widget","settings":{"promo_card_subtle":"BUNDLE","promo_card_title":"Sale 50% Off","promo_card_description":"Discount when buying combo.","promo_card_code_label":"Use code:","promo_card_code_value":"BUNDLEDEAL50"},"elements":[],"widgetType":"glozin-promo-card"}],"isInner":true},{"id":"3483fa1","elType":"container","settings":{"content_width":"full","width_tablet":{"unit":"%","size":"","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"boxed_width_tablet":{"unit":"%","size":50,"sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"d266cb6","elType":"widget","settings":{"promo_card_subtle":"FLASHSALE","promo_card_title":"Sale 75% Off","promo_card_description":"Big discounts for Flash Sale hours.","promo_card_code_label":"Use code:","promo_card_code_value":"FLASHSALE75"},"elements":[],"widgetType":"glozin-promo-card"}],"isInner":true},{"id":"1357d9e","elType":"container","settings":{"content_width":"full","width_tablet":{"unit":"%","size":"","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"boxed_width_tablet":{"unit":"%","size":50,"sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]},"flex_wrap":"wrap"},"elements":[{"id":"d771702","elType":"widget","settings":{"promo_card_subtle":"BLACK FRIDAY","promo_card_title":"Best Of Sale","promo_card_description":"Extra 50% off for VIP customers.","promo_card_code_label":"Use code:","promo_card_code_value":"VIPSale50All"},"elements":[],"widgetType":"glozin-promo-card"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"5736dbae","elType":"container","settings":{"content_width":"full","margin":{"unit":"px","top":"0","right":"0","bottom":"90","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"2cf22336","elType":"widget","settings":{"items":[{"text":"Black Friday &amp; Holiday Sale: Up to 75% Off All Products","_id":"e593f81","type":"icon","icon":{"value":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/star.svg","id":962},"library":"svg"},"image":{"id":1634,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/woocommerce-placeholder-300x400-1.png"}},{"text":"Black Friday &amp; Holiday Sale: Up to 75% Off All Products","type":"icon","icon":{"value":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/star.svg","id":962},"library":"svg"},"_id":"776d785","image":{"id":1635,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/woocommerce-placeholder-300x400-2.png"}}],"speed":0.2,"padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false},"gap":{"unit":"px","size":80,"sizes":[]},"background_color":"#111111","border_border":"none","icon_size":{"unit":"px","size":12,"sizes":[]},"icon_color":"#FFFFFF","spacing":{"unit":"px","size":80,"sizes":[]},"text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":13,"sizes":[]},"text_typography_font_weight":"600","text_typography_text_transform":"uppercase","text_color":"#FFFFFF"},"elements":[],"widgetType":"glozin-marquee"}],"isInner":false},{"id":"7df7336a","elType":"container","settings":{"flex_gap":{"column":"30","row":"30","isLinked":true,"unit":"px","size":30},"margin":{"unit":"px","top":"0","right":"0","bottom":"90","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"17a27ba0","elType":"widget","settings":{"title":"Last Chance&lt;br /&gt; 50–75% Off. Snooze—You Lose","align":"center","typography_typography":"custom","typography_font_size_tablet":{"unit":"px","size":32,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"3a97e573","elType":"widget","settings":{"tabs":[{"_id":"1c90e2c","heading":"All Products"},{"heading":"Best Of Sale","products":"best_selling_products","_id":"b8fa7dd"},{"heading":"Sale 75% Off","_id":"3451a1f"},{"heading":"Sale 50% Off","products":"sale_products","_id":"4e9b738"},{"_id":"078e12a","heading":"Sale 30% Off","products":"top_rated_products"}],"slides_rows":2,"slides_rows_mobile":1,"slides_to_show_tablet":3,"slides_to_show_mobile":2,"navigation_classes":"none","navigation_classes_tablet":"none","navigation_classes_mobile":"dots","image_spacing_custom_mobile":15},"elements":[],"widgetType":"glozin-product-tabs-carousel"}],"isInner":false},{"id":"19402e3c","elType":"container","settings":{"flex_gap":{"column":"10","row":"10","isLinked":true,"unit":"px","size":10},"margin":{"unit":"px","top":"0","right":"0","bottom":"90","left":"0","isLinked":false},"background_background":"classic","background_color":"#F5F5F5","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[{"id":"492e025c","elType":"widget","settings":{"title":"Customer Say!","align":"center"},"elements":[],"widgetType":"glozin-heading"},{"id":"44fd33d6","elType":"widget","settings":{"title":"Customers love our products and we always strive to please them all.","title_size":"div","align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"23","left":"0","isLinked":false}},"elements":[],"widgetType":"glozin-heading"},{"id":"384afe1a","elType":"widget","settings":{"testimonials":[{"testimonial_name":"Carie-Gosée H.","_id":"b8d95de","image":{"url":"","id":"","size":"","alt":"","source":"library"},"testimonial_title":"Our customers reviews","testimonial_content":"These are sooo pretty and very comfy. Perfect color as well. I love wearing these with a neutral top and Chelsea boots. Wicked cute...😍","testimonial_text":"Verified Buyer","testimonial_product_id":334,"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203"},{"testimonial_name":"Cameron Smith","_id":"dc164a9","image":{"url":"","id":"","size":"","alt":"","source":"library"},"testimonial_title":"Our customers reviews","testimonial_content":"A perfect product, it keeps you very warm without over heating. True to size, I couldn't be happier with the purchase... Thank you! 🤗","testimonial_text":"Verified Buyer","testimonial_product_id":267,"video":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/md-test-2.mp4","id":761,"size":"","alt":"","source":"library"},"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","media_url":{"url":"","id":"","size":"","alt":"","source":"library"}},{"testimonial_name":"Algistino Linonel","_id":"756f522","image":{"url":"","id":"","size":"","alt":"","source":"library"},"testimonial_title":"Our customers reviews","testimonial_content":"A fantastic purchase! The product provides just the right amount of warmth without causing overheating. Highly recommend! 😊","testimonial_text":"Verified Buyer","testimonial_product_id":318,"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203"},{"_id":"76f71aa","youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","testimonial_name":"Youngly P","testimonial_text":"Verified Buyer","testimonial_content":"These are sooo pretty and very comfy. Perfect color as well. I love wearing these with a neutral top and Chelsea boots. Wicked cute...😍","testimonial_product_id":327}],"item_border_radius":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"slides_to_show_tablet":2,"slides_to_show_mobile":1,"navigation_classes_mobile":"dots","name_typography_font_size":{"unit":"px","size":2,"sizes":[]},"infinite":"yes","slides_to_show":3,"autoplay":"yes","item_background_color":"#FFFFFF","item_border_border":"none"},"elements":[],"widgetType":"glozin-testimonial-carousel"}],"isInner":false},{"id":"2f423e80","elType":"container","settings":{"flex_gap":{"column":"10","row":"10","isLinked":true,"unit":"px","size":10},"margin":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"1887d110","elType":"widget","settings":{"title":"Hello! Everyday for Women's","align":"center"},"elements":[],"widgetType":"glozin-heading"}],"isInner":false},{"id":"56149a27","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"90","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"4b736ae5","elType":"widget","settings":{"content":"&lt;p&gt;Discover a collection of timeless wardrobe essentials, seamlessly transitioning from work to weekend. Inspired by travel, our America-designed pieces prioritize sustainability with natural fibers and mindful practices. Explore a range of &lt;span style=\"text-decoration: underline;\"&gt;&lt;strong&gt;tops&lt;/strong&gt;&lt;/span&gt;, &lt;span style=\"text-decoration: underline;\"&gt;&lt;strong&gt;bottoms&lt;/strong&gt;&lt;/span&gt;, &lt;span style=\"text-decoration: underline;\"&gt;&lt;strong&gt;sweaters&lt;/strong&gt;&lt;/span&gt;, and accessories in versatile styles, featuring high-quality materials like cotton, linen, tencel, and wool.&lt;/p&gt;&lt;p&gt;Each piece is crafted with meticulous attention to detail, ensuring a perfect blend of comfort and elegance. Our designs emphasize clean lines and sophisticated silhouettes, making them suitable for any occasion. Whether you’re dressing up for a night out or keeping it casual, our collection offers endless styling possibilities. Embrace the essence of effortless chic with our thoughtfully designed wardrobe staples, and experience the harmony of style, quality, and sustainability. Join us in redefining modern fashion with a conscience.&lt;/p&gt;","show":"See all Information","hide":"Hide less Information","max_width":{"unit":"%","size":67,"sizes":[]},"max_width_tablet":{"unit":"%","size":85,"sizes":[]},"max_width_mobile":{"unit":"%","size":100,"sizes":[]},"max_height_mobile":{"unit":"px","size":69,"sizes":[]},"content_typography_typography":"custom","button_typography_typography":"custom","button_typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-short-content"}],"isInner":false},{"id":"1b4dc7ed","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"90","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"6809dd0","elType":"widget","settings":{"icons_box":[{"icon":{"value":{"id":3342,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/shipping.svg"},"library":"svg"},"title":"Free Shipping","description":"Enjoy free worldwide shipping and returns, with customs&lt;br class=\"d-none d-block-xl\"/&gt; and duties taxes included.","_id":"3e74bd4","title_size":"h6","image":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/placeholder.png"}},{"icon":{"value":{"id":3343,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/return.svg"},"library":"svg"},"title":"Free Returns","description":"Free returns within 15 days, please make sure the items&lt;br class=\"d-none d-block-xl\"/&gt; are in undamaged condition.","_id":"50f8ad0","title_size":"h6","image":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/placeholder.png"}},{"icon":{"value":{"id":3344,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/support.svg"},"library":"svg"},"title":"Support Online","description":"We support customers 24/7, send questions we will&lt;br class=\"d-none d-block-xl\"/&gt; solve for you immediately.","_id":"e734671","title_size":"h6","image":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/placeholder.png"}}],"slides_to_show_mobile":1,"navigation_classes":"none","navigation_classes_mobile":"dots","icon_size":{"unit":"px","size":32,"sizes":[]},"slides_to_show_tablet":3,"navigation_classes_tablet":"none","alignment":"center","title_spacing":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"glozin-icon-box-carousel"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							</item>
+					
+					
+					
+					
+					
 					<item>
 		<title><![CDATA[Hair Power LYN—Pumpkin Spice Bob]]></title>
 		<link>https://wpglozin.com/wigs/shop/hair-power-lyn-pumpkin-spice-bob/</link>
@@ -15580,12 +15506,6 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 			</wp:commentmeta>
 							</wp:comment>
 					</item>
-					
-					
-					
-					
-					
-					
 					<item>
 		<title><![CDATA[Tempermint—Spotlight Bob Series]]></title>
 		<link>https://wpglozin.com/wigs/shop/tempermint-spotlight-bob-series/</link>
@@ -18284,5 +18204,6 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					
 					
-				<item><title>Post Image Placeholder</title><link>https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/placeholder/post_image.svg</link><pubDate>Mon, 11 Aug 2025 11:04:12 +0000</pubDate><creator>admin</creator><guid>https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/placeholder/post_image.svg</guid><description/><encoded/><encoded/><wp:post_id>999999</wp:post_id><wp:post_date>2025-08-11 11:04:12</wp:post_date><wp:post_date_gmt>2025-08-11 11:04:12</wp:post_date_gmt><wp:comment_status>open</wp:comment_status><wp:ping_status>open</wp:ping_status><wp:post_name>post-image-placeholder</wp:post_name><wp:status>inherit</wp:status><wp:post_parent>0</wp:post_parent><wp:menu_order>0</wp:menu_order><wp:post_type>attachment</wp:post_type><wp:post_password/><wp:is_sticky>0</wp:is_sticky><wp:postmeta><wp:meta_key>_wp_attached_file</wp:meta_key><wp:meta_value><![CDATA[placeholder/post_image.svg]]></wp:meta_value></wp:postmeta><wp:postmeta><wp:meta_key>_wp_attachment_metadata</wp:meta_key><wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:600;s:4:"file";s:24:"placeholder/post_image.svg";s:5:"sizes";a:0:{}s:10:"image_meta";a:0:{}}]]></wp:meta_value></wp:postmeta></item></channel>
+					
+				<item><title>Post Image Placeholder</title><link>https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/placeholder/post_image.svg</link><pubDate>Mon, 11 Aug 2025 11:26:27 +0000</pubDate><creator>admin</creator><guid>https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/placeholder/post_image.svg</guid><description/><encoded/><encoded/><wp:post_id>999999</wp:post_id><wp:post_date>2025-08-11 11:26:27</wp:post_date><wp:post_date_gmt>2025-08-11 11:26:27</wp:post_date_gmt><wp:comment_status>open</wp:comment_status><wp:ping_status>open</wp:ping_status><wp:post_name>post-image-placeholder</wp:post_name><wp:status>inherit</wp:status><wp:post_parent>0</wp:post_parent><wp:menu_order>0</wp:menu_order><wp:post_type>attachment</wp:post_type><wp:post_password/><wp:is_sticky>0</wp:is_sticky><wp:postmeta><wp:meta_key>_wp_attached_file</wp:meta_key><wp:meta_value><![CDATA[placeholder/post_image.svg]]></wp:meta_value></wp:postmeta><wp:postmeta><wp:meta_key>_wp_attachment_metadata</wp:meta_key><wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:600;s:4:"file";s:24:"placeholder/post_image.svg";s:5:"sizes";a:0:{}s:10:"image_meta";a:0:{}}]]></wp:meta_value></wp:postmeta></item></channel>
 </rss>
